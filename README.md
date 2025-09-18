@@ -2,9 +2,9 @@
 
 
 ## Table of Contents
-- [Basic Principles of DNA Extraction](basic-principles-of-dna-extraction)
-- [Qiagen DNeasy Plant Pro Kit Protocol](qiagen-dneasy-plant-pro-kit-protocol)
-- [Modified CTAB DNA Extraction Protocol](modified-ctab-dna-extraction-protocol)
+- [Basic Principles of DNA Extraction](#basic-principles-of-dna-extraction)
+- [Qiagen DNeasy Plant Pro Kit Protocol](#qiagen-dneasy-plant-pro-kit-protocol)
+- [Modified CTAB DNA Extraction Protocol](#modified-ctab-dna-extraction-protocol)
 
 
 We are using the **Qiagen DNeasy Plant Pro Kit** and a **modified CTAB protocol** to extract genomic DNA from plant tissues. There is a trade-off between speed and convenience with the Qiagen versus higher yield and lower cost with the CTAB protocol. The Qiagen is quicker and more convenient, allowing extraction of ~24 samples in 3–4 hours, though it is relatively expensive and yielded lower DNA concentrations. By contrast, the CTAB protocol requires substantially more time (~12 hours for 24 samples) but produces much higher DNA yields at lower cost, albeit with greater labor and potential impurities.
