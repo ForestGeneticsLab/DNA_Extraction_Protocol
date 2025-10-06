@@ -148,7 +148,7 @@ b.	Go onto next step quickly so the phases do not remix
 8.	Pipette off aqueous phase taking care not to suck up any of the middle proteins debris and bottom chloroform phases. Pipetting slowly helps with this.
 9.	Place the aqueous phase into a new labeled Eppendorf tube
 10.	Repeat steps 5-6
-11.	Pipette off aqueous phase (~300 µL) taking care not to such up the protein or chloroform phases<br>
+11.	Pipette off aqueous phase (~300 µL) taking care not to suck up the protein or chloroform phases<br>
 a.	Pay particular attention to the slight protein layer at this point. Pipette less aqueous phase in order to avoid the other phases will improve quality of DNA
 12.	Place the aqueous phase into a new labeled Eppendorf tube
 13.	Estimate the volume of the aqueous phase ~ 300 µL
