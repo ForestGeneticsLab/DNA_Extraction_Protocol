@@ -152,9 +152,9 @@ a.	Pay particular attention to the slight protein layer at this point. Pipette l
 12.	Place the aqueous phase into a new labeled Eppendorf tube
 13.	Estimate the volume of the aqueous phase ~ 300 µL
 14.	Add 0.08 volumes (~24 µL) of cold 7.5 M ammonium acetate
-15.	Add 0.54 volume (~162 µL) of cold isopropanol (2-propanal) 
+15.	Add 0.54 volume (~162 µL) of cold isopropanol (2-propanal) (isopropanol precipitates DNA)
 16.	Mix well
-17.	Incubate in freezer for 1 hour<br>
+17.	Incubate in -20°C freezer for 1 hour<br>
 a.	Longer times will yield more DNA, but also more contaminants
 18.	Centrifuge for 3 min at maximum speed
 19.	Pour or pipette off the liquid. Do not lose the DNA pellet
@@ -179,7 +179,7 @@ d.	Reverse steps to stop
 
 1.	If the volume of the DNA is less than 200 μl, bring the volume up to 200 μl with sterile dH<sub>2</sub>O.
 2.	Add 1/10<sup>th</sup> volume of 3M sodium acetate to the DNA solution and mix. (i.e. add 20 μL to the 200μL solution)
-3.	Add 2 volumes (i.e. 400 μL) of -20°C 100% ethanol (EtOH) and vortex for 10 seconds. Put the tube in a -20°C freezer overnight or a -70° C freezer for 20 minutes.
+3.	Add 2 volumes (i.e. 400 μL) of -20°C 100% ethanol (EtOH) and vortex for 10 seconds. Put the tube in a -20°C freezer overnight or a -70°C freezer for 20 minutes.
 4.	Spin in a microfuge for 5 minutes. Invert the tube with the lid closed and look for the pellet. While upside down, pour out the EtOH but save the pellet!!
 5.	Wash the pellet with 500 μl of 4°C 70% EtOH, gently roll the tube, then dump the EtOH, and SpeedVac the pellet. SAVE THE PELLET!
 6.	You can SpeedVac the DNA to dryness if any liquid remains.
