@@ -123,13 +123,12 @@ distilled water (or ultrapure/nuclease-free water)
 1.	Measure out washing buffer: 1 mL per reaction plus 10% +/- volume.
 2.	Add 0.01 g PVP and 4.5 µL β-mercaptoethanol for each reaction.
 3.	Shake vigorously to mix.
-4.	Stuff tubes with foliage sample (5-6 leaves)
-5.	Grind plant material using liquid nitrogen and clean sterile Micropestle
-6.	Add 1 ml of washing buffer to each tube.
-7.	Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing) 
-8.	Spin tubes in centrifuge for 10 min at >10,000 rpm
-9.	Pipette off supernatant and keep the pellet
-10. Proceed with regular extraction protocol immediately
+4.	Stuff bead mill tubes with foliage sample as needed
+5.	Add 1 ml of washing buffer to each tube. Vortex for a few seconds
+*Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
+9.	Spin tubes in centrifuge for 10 min at >10,000 rpm
+10.	Pipette off supernatant and keep the pellet
+11. Proceed with regular extraction protocol immediately
 
 
 ---
