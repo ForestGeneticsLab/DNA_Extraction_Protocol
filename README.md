@@ -137,21 +137,21 @@ distilled water (or ultrapure/nuclease-free water)
 
 ### CTAB Protocol
 
-1.	Prepare **CTAB buffer**: [0.5 mL/rxn+10% CTAB stock. Add 0.02g PVP and 2.5 uL beta- mercaptoethanol for each reaction](#extraction-buffer).
+1.	Prepare **CTAB buffer**: [0.5 mL/rxn+10% CTAB stock. Add 0.02g PVP and 2.5 uL β-mercaptoethanol for each reaction](#extraction-buffer).
 2.	Add 500 µL CTAB buffer to each tube
 3.	Mix vigorously (use pipette tip to guarantee complete mixing)
 4.	Incubate samples at 65°C using the Eppendorf thermos mixer for 3 hours
-5.	Add 500 uL of 24:1 Chloroform: Isoamyl Alcohol and mix well by vortexing (use filter tips) 
+5.	Add 500 µL of 24:1 Chloroform: Isoamyl Alcohol and mix well by vortexing (use filter tips) 
 6.	Centrifuge for 5-10 min at maximum speed<br>
 a.	Following centrifugation, you should have 3 layers: **aqueous phase** (top), **debris and proteins** (middle), and **chloroform** (bottom).<br> →  *Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in aqueous phase*. <br>
 b.	Go onto next step quickly so the phases do not remix
 8.	Pipette off aqueous phase taking care not to suck up any of the middle proteins debris and bottom chloroform phases. Pipetting slowly helps with this.
 9.	Place the aqueous phase into a new labeled Eppendorf tube
 10.	Repeat steps 5-6
-11.	Pipette off aqueous phase (~300 uL) taking care not to such up the protein or chloroform phases<br>
+11.	Pipette off aqueous phase (~300 µL) taking care not to such up the protein or chloroform phases<br>
 a.	Pay particular attention to the slight protein layer at this point. Pipette less aqueous phase in order to avoid the other phases will improve quality of DNA
 12.	Place the aqueous phase into a new labeled Eppendorf tube
-13.	Estimate the volume of the aqueous phase ~ 300 uL
+13.	Estimate the volume of the aqueous phase ~ 300 µL
 14.	Add 0.08 volumes (~24 µL) of cold 7.5 M ammonium acetate
 15.	Add 0.54 volume (~162 µL) of cold isopropanol (2-propanal) 
 16.	Mix well
