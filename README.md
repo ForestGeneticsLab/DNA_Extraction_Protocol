@@ -125,7 +125,7 @@ distilled water (or ultrapure/nuclease-free water)
 3.	Shake vigorously to mix.
 4.	Stuff bead mill tubes with foliage sample as needed
 5.	Add 1 ml of washing buffer to each tube. Vortex for a few seconds
-*Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
+<br> →*Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
 9.	Spin tubes in centrifuge for 10 min at >10,000 rpm
 10.	Pipette off supernatant and keep the pellet
 11. Proceed with regular extraction protocol immediately
