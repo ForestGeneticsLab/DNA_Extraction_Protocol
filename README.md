@@ -121,7 +121,8 @@ distilled water (or ultrapure/nuclease-free water)
 ### Pre-Wash Protocol
 
 1.	Measure out washing buffer: 1 mL per reaction plus 10% +/- volume.
-2.	Add 0.01 g PVP and 4.5 µL β-mercaptoethanol for each reaction.
+2.	Add 0.01 g × (number of reactions) PVP, and 4.5 µL × (number of reactions) β-mercaptoethanol for the number of reactions
+
 3.	Shake vigorously to mix.
 4.	Stuff bead mill tubes with foliage sample as needed
 5.	Add 1 ml of washing buffer to each tube. Vortex for a few seconds
