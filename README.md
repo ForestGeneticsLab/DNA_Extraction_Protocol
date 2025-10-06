@@ -88,7 +88,7 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 >***Note:*** Adjust the volume of solutions needed to prepare the amount of washing buffer needed for the number of samples
 <br>
 
-→ *Required*: 2-mercaptoethanol (it's in the fumehood); polyvinylpyrrolidone (PVP)(by weight balance)(k-30, S<sub>abc</sub>)
+→ *Required*: 2-mercaptoethanol (β-mercaptoethanol) (it's in the fumehood); polyvinylpyrrolidone (PVP)(by weight balance)(k-30, S<sub>abc</sub>)
 
 #### <ins>CTAB Extraction Buffer:<ins>
 
@@ -109,7 +109,7 @@ Heikrujam et al. 2020: If cells are in hypotonic solution, cell bursting… If i
 
 :small_blue_diamond: 20 mg PVP (PolyVinylPyrrolidone): *Absorbs polyphenolic contamination by binding through hydrogen bond.*
 
-:small_blue_diamond: 2.5 µL β-mercaptoethanol: *reducing agent, removes tannins and polyphenols*
+:small_blue_diamond: 2.5 µL β-mercaptoethanol (2-mercaptoethanol): *reducing agent, removes tannins and polyphenols*
 
 distilled water (or ultrapure/nuclease-free water)
 
