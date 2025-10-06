@@ -15,7 +15,7 @@ We are using the **Qiagen DNeasy Plant Pro Kit** and a **modified CTAB protocol*
 
 ## Basic Principles of DNA Extraction
 
-DNA (DeoxyriboNucleic Acid) or RNA (RiboNucleic Acid) extraction process basically is a process that involves disruption of tissue to and breaking of the cell wall, cell and nuclear membranes to release the DNA/RNA and then isolating the nucleic acid from the rest of the unwanted cell debris. 
+DNA (DeoxyriboNucleic Acid) or RNA (RiboNucleic Acid) extraction process involves disruption of tissue and breaking of the cell wall, cell and nuclear membranes to release the DNA/RNA and then isolating the nucleic acid from the rest of the unwanted cell debris. 
 
 Here is a simple overview of the basic principles and science behind DNA extraction:
 
@@ -32,7 +32,7 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 ---
 ---
 
-## [Qiagen DNeasy Plant Pro Kit Protocol](file:///C:/Users/rsbis/AppData/Local/Temp/MicrosoftEdgeDownloads/e9a9b115-43dd-4784-b72e-a6e0c7888c9c/HB-2552-002_HB_DNY_Plant_Pro_0819_WW%20(1).pdf)
+# [Qiagen DNeasy Plant Pro Kit Protocol](file:///C:/Users/rsbis/AppData/Local/Temp/MicrosoftEdgeDownloads/e9a9b115-43dd-4784-b72e-a6e0c7888c9c/HB-2552-002_HB_DNY_Plant_Pro_0819_WW%20(1).pdf)
 
 ![Qiagen DNeasy Plant Pro Kit Procedure](Qiagen.jpg)
 
@@ -42,7 +42,7 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 2. Add **450 µl Solution CD1** and **50 µl Solution PS**.  
    - For samples rich in polyphenolic compounds, increase PS up to **100 µl** and reduce CD1 accordingly (total solution volume = 500 µl).  
 3. Incubate at **65 °C for 10 minutes**, then briefly vortex (5 seconds).  
-4. Homogenize tissue in the bead mill at **speed 3.1 for 2 minutes**.  
+4. Homogenize tissue in the bead mill at **speed 3.1 m/s for 2 minutes**.  
 5. Centrifuge at **12,000 × g for 2 minutes**.  
 6. Transfer the supernatant to a 1.5 ml collection tube (Some plant particles may remain in the supernatant; this is acceptable)  
 7. Add **200 µl Solution CD2** (stored at 4 °C) and vortex for 5 seconds (For problematic samples, increase CD2 up to **250 µl**)
@@ -69,7 +69,7 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 ---
 ---
 
-## Modified CTAB DNA Extraction Protocol
+# Modified CTAB DNA Extraction Protocol
 
 :point_right: Reference: [Doyle and Doyle 1987](https://worldveg.tind.io/record/33886?ln=en), and [Cullings 1992](https://doi.org/10.1111/j.1365-294X.1992.tb00182.x), With modifications by Jeremy Johnson
 
@@ -78,40 +78,69 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 ### Reagents and Solutions
 #### <ins>Washing Buffer:<ins>
 
-> | Solutions                | Volume needed     |
+> | Solutions                | Volume            |
 > |--------------------------|-------------------|
-> |   50 mL Tris HCl (1M)    |   5 mL            |
-> |   50 ML EDTA (0.5M)      |   5 ml            |
-> |   100 mL NaCl (5M)       |   10 ml           |
-> |   300 mL H2O             |   30 ml           |
+> |         Tris HCl (1M)    |   10 mL           |
+> |         EDTA (0.5M)      |   10 mL           |
+> |         NaCl (5M)        |   20 mL           |
+> |         H2O              |   60 mL           |
 > 
->***Note:*** Adjust the volume of solutions needed to prepare the amount of washing buffer needed for the number of samples
+>***Note:*** Adjust the volume of solutions needed to prepare the amount of washing buffer needed for the number of samples (1 mL per sample). The above amounts will prepare enough stock solution for 100 extractions (100 mL).
+<br>
+
+#### <ins>CTAB Extraction Buffer:<ins>
+
+> | Solutions                | Volume/mass       |
+> |--------------------------|-------------------|
+> |         Tris HCl (1M)    |   5 mL            |
+> |         EDTA (0.5M)      |   2 mL            |
+> |         NaCl (5M)        |   14 mL           |
+> |         CTAB             |   1 g             |
+> |         H2O              |   30 mL           |
+> 
+>***Note:*** Adjust the volume of solutions needed to prepare the amount of CTAB buffer needed for the number of samples (0.5 mL per sample). The above amounts will prepare enough stock solution for 100 extractions (50 mL).
 <br>
 
 → *Required*: 2-mercaptoethanol (β-mercaptoethanol) (it's in the fumehood); polyvinylpyrrolidone (PVP)(by weight balance)(k-30, S<sub>abc</sub>)
 
-#### <ins>CTAB Extraction Buffer:<ins>
+#### <ins>TE Buffer:<ins>
+
+> | Solutions                | Volume            |
+> |--------------------------|-------------------|
+> |         Tris-EDTA (100x) |   0.1 mL          |
+> |         H20              |   9.9 mL          |
+> 
+>***Note:*** Adjust the volume of solutions needed to prepare the amount of TE buffer needed for the number of samples (100 μL per sample). The above amounts will prepare enough stock solution for 100 extractions (10 mL).
+<br>
+
+
+### <b>Be sure to autoclave all buffers!</b>
+
+<br>
+
+Functions of reagents in buffers:
+
+:small_blue_diamond: CTAB (Cetyl Triethyl Ammonium Bromide): *Cationic detergent, removes polysaccharides (cellulose) and secondary metabolites, breaks cell membrane*
+
+:small_blue_diamond: 1 mM Tris HCl :- *Maintains pH*
+
+:small_blue_diamond: 0.5 M EDTA (EthyleneDiamineTetraacetic Acid): *Chelating agent. Binds metal ions like Mg<sup>++</sup> that can inactivate enzymes (like nucleases: DNase, RNase)*
+
+:small_blue_diamond: 5M NaCl: *Helps remove protein bound to the DNA. Na+ binds with negative phosphate of DNA and precipitate
+Heikrujam et al. 2020: If cells are in hypotonic solution, cell bursting… If in hypertonic solution, water oozes out from the cell, cells shrink and crumple. 0.5 M provides ionic strength needed for CTAB to precipitate polysaccharides. In protocols developed for getting rid fo polysaccharides, higher concentration has been recommended.*
+
+:small_blue_diamond: PVP (PolyVinylPyrrolidone): *Absorbs polyphenolic contamination by binding through hydrogen bond.*
+
+:small_blue_diamond: β-mercaptoethanol (2-mercaptoethanol): *reducing agent, removes tannins and polyphenols*
+
+
+<br>
+
+## Extraction begins:
 
 **Prep:** After pre-wash, the regular extraction procedure continues immediately. Therefore, before starting the pre-wash, the regular extraction buffer needs to be prepared and during the pre-wash period, the extraction buffer needs to be heated in an incubator.
 
 *Preheat the heat thermos-mixer to 65°C*
-
-Mix the followings to prepare extraction buffer.
-
-:small_blue_diamond: 0.5 mL/rxn+10% CTAB (Cetyl Triethyl Ammonium Bromide): *Cationic detergent, removes polysaccharides (cellulose) and secondary metabolites, breaks cell membrane*
-
-:small_blue_diamond: 10 mL 1 mM Tris HCl :- *Maintains pH*
-
-:small_blue_diamond: 10 mL 0.5 M EDTA (EthyleneDiamineTetraacetic Acid): *Chelating agent. Binds metal ions like Mg<sup>++</sup> that can inactivate enzymes (like nucleases: DNase, RNase)*
-
-:small_blue_diamond: 20 mL 5M NaCl: *Helps remove protein bound to the DNA. Na+ binds with negative phosphate of DNA and precipitate
-Heikrujam et al. 2020: If cells are in hypotonic solution, cell bursting… If in hypertonic solution, water oozes out from the cell, cells shrink and crumple. 0.5 M provides ionic strength needed for CTAB to precipitate polysaccharides. In protocols developed for getting rid fo polysaccharides, higher concentration has been recommended.*
-
-:small_blue_diamond: 20 mg PVP (PolyVinylPyrrolidone): *Absorbs polyphenolic contamination by binding through hydrogen bond.*
-
-:small_blue_diamond: 2.5 µL β-mercaptoethanol (2-mercaptoethanol): *reducing agent, removes tannins and polyphenols*
-
-distilled water (or ultrapure/nuclease-free water)
 
 
 ---
@@ -120,14 +149,17 @@ distilled water (or ultrapure/nuclease-free water)
 
 ### Pre-Wash Protocol
 
-1.	Measure out washing buffer: 1 mL per reaction plus 10% +/- volume.
+1.	Measure out washing buffer stock: 1 mL per reaction plus 10% +/- volume.
 2.	Add 0.01 g × (number of reactions) PVP, and 4.5 µL × (number of reactions) β-mercaptoethanol for the number of reactions
 3.	Shake vigorously to mix.
-4.	Stuff bead mill tubes with foliage sample as needed
+4.	Stuff bead mill tubes with foliage sample as needed (~300 mg for pine species), being careful to not cross contaminate samples. If using hands to stuff tubes, change gloves for each sample.
 5.	Add 1 ml of washing buffer to each tube. Vortex for a few seconds
 <br> → *Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
-9.	Spin tubes in centrifuge for 10 min at >10,000 rpm
-10.	Pipette off supernatant and keep the pellet
+6. Insert bead mill tubes containing tissue and buffer into bead mill, making sure that the tubes are in a balanced arrangement.
+7. Run bead mill for 2 minutes at 3.55 m/s.
+8. Transfer bead mill tubes to centrifuge, making sure that the tubes are in a balanced arrangement.
+9.	Spin tubes in centrifuge for 10 min at >10,000 rpm.
+10.	Pipette off supernatant and keep the pellet.
 11. Proceed with regular extraction protocol immediately
 
 
@@ -169,7 +201,8 @@ a.	Turn on the rotor first and wait for the vacuum to start<br>
 b.	Set the temperature to 30°C<br>
 c.	Turn on the motor second and start suction<br>
 d.	Reverse steps to stop
-27.	Resuspend samples with 100 µL of TE buffer. Allow to resuspend for 1 hr at 55°C or overnight in refrigerator before running a test gel using 5 µL of the DNA
+<br> → *If SpeedVac is not availible, allow pellets to dry with Eppendorf tube cap open in fume hood for 1-2 hours.*
+27.	Resuspend samples with 100 µL of 1x TE buffer. Allow to resuspend for 1 hr at 55°C or overnight in refrigerator before running a test gel using 5 µL of the DNA
 28.	Clean DNA using an **Ethanol precipitation protocol** (below) if needed
 
 
