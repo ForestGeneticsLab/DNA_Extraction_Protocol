@@ -78,14 +78,15 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 ### Reagents and Solutions
 #### <ins>Washing Buffer:<ins>
 
-> | Solutions                | Volume            |
-> |--------------------------|-------------------|
-> |         Tris HCl (1M)    |   10 mL           |
-> |         EDTA (0.5M)      |   10 mL           |
-> |         NaCl (5M)        |   20 mL           |
-> |         H2O              |   60 mL           |
+> | Solutions                | Volume of Stock solution to be prepared                        |
+> |                          | 100 mL            |  50 mL               |  25 mL              |
+> |--------------------------|-------------------|----------------------|---------------------|
+> |         Tris HCl (1M)    |   10 mL           | 5 mL                 | 2.5 mL              |
+> |         EDTA (0.5M)      |   10 mL           | 5 mL                 | 2.5 mL              |
+> |         NaCl (5M)        |   20 mL           | 10 mL                | 5 mL                |
+> |         H2O              |   60 mL           | 30 mL                | 15 mL               |
 > 
->***Note:*** Adjust the volume of solutions needed to prepare the amount of washing buffer needed for the number of samples (1 mL per sample). The above amounts will prepare enough stock solution for 100 extractions (100 mL).
+>***Note:*** Adjust the volume of solutions needed to prepare the amount of washing buffer needed for the number of samples (1 mL per sample). The above amounts will prepare enough stock solution for 100 extractions (100 mL). 
 <br>
 
 #### <ins>CTAB Extraction Buffer:<ins>
