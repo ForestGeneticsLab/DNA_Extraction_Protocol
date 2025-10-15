@@ -138,7 +138,7 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 > |         EDTA (0.5M)      |   2 mL            |
 > |         NaCl (5M)        |   14 mL           |
 > |         CTAB             |   1 g             |
-> |         H2O              |   30 mL           |
+> |         H</sub>2</sub>O              |   30 mL           |
 > 
 >***Note:*** Adjust the volume of solutions needed to prepare the amount of CTAB buffer needed for the number of samples (0.5 mL per sample). The above amounts will prepare enough stock solution for 100 extractions (50 mL).
 <br>
