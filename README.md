@@ -71,7 +71,7 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 
 # Modified CTAB DNA Extraction Protocol
 
-:point_right: Reference: [Doyle and Doyle 1987](https://worldveg.tind.io/record/33886?ln=en), and [Cullings 1992](https://doi.org/10.1111/j.1365-294X.1992.tb00182.x), With modifications by Jeremy Johnson
+:point_right: Reference: [Doyle and Doyle 1987](https://webpages.charlotte.edu/~jweller2/pages/BINF8350f2011/BINF8350_Readings/Doyle_plantDNAextractCTAB_1987.pdf), and [Cullings 1992](https://doi.org/10.1111/j.1365-294X.1992.tb00182.x), With modifications by Jeremy Johnson
 
 **Purpose:** Cost-effective method for extracting DNA from plants with high polysaccharide content.
 
