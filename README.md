@@ -78,6 +78,8 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 ### Reagents and Solutions
 #### <ins>Washing Buffer:<ins>
 
+We need 1 mL Washing buffer per sample. Prepare the washing buffer as needed with certain proportion of reagents.
+
 <table>
   <thead>
     <tr>
@@ -85,40 +87,40 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
       <th colspan="4">Volume of Stock Solution to be Prepared</th>
     </tr>
     <tr>
+      <th>X mL</th>
       <th>100 mL</th>
       <th>50 mL</th>
-      <th>25 mL</th>
-      <th>X mL</th>
+      <th>25 mL</th>      
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Tris HCl (1M)</td>
+      <td>0.1*X mL</td>
       <td>10 mL</td>
       <td>5 mL</td>
       <td>2.5 mL</td>
-      <td>0.1*X mL</td>
     </tr>
     <tr>
       <td>EDTA (0.5M)</td>
+      <td>0.1*X mL</td>
       <td>10 mL</td>
       <td>5 mL</td>
       <td>2.5 mL</td>
-      <td>0.1*X mL</td>
     </tr>
     <tr>
       <td>NaCl (5M)</td>
+      <td>0.2*X mL</td>
       <td>20 mL</td>
       <td>10 mL</td>
       <td>5 mL</td>
-      <td>0.2*X mL</td>
     </tr>
     <tr>
       <td>H₂O</td>
+      <td>0.6*X mL</td>
       <td>60 mL</td>
       <td>30 mL</td>
       <td>15 mL</td>
-      <td>0.6*X mL</td>
     </tr>
   </tbody>
 </table>
@@ -132,8 +134,7 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 
 
 
->***Note:*** Adjust the volume of solutions needed to prepare the amount of washing buffer needed for the number of samples (1 mL per sample). The above amounts will prepare enough stock solution for 100 extractions (100 mL). 
-<br>
+
 
 #### <ins>CTAB Extraction Buffer:<ins>
 
