@@ -79,7 +79,7 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 ### Reagents and Solutions
 #### <ins>Washing Buffer:<ins>
 
-We need 1 mL Washing buffer per sample. Prepare the volume of washing buffer as needed with certain proportion of reagents, following the table below;
+We need 1 mL Washing buffer per sample. Prepare the volume of washing buffer for N samples (rxn) with appropirate proportion of reagents, following the table below;
 
 <table>
   <thead>
@@ -138,7 +138,7 @@ We need 1 mL Washing buffer per sample. Prepare the volume of washing buffer as 
 
 #### <ins>CTAB Extraction Buffer:<ins>
 
-We need 0.5 mL CTAB buffer per sample. Prepare CTAB buffer volume accordingly following the proportion of reagents as shown in the following table;
+We need 0.5 mL CTAB buffer per sample. Prepare CTAB buffer volume for N rxt following the proportion of reagents as shown in the following table;
 
 
 <table>
@@ -189,7 +189,7 @@ We need 0.5 mL CTAB buffer per sample. Prepare CTAB buffer volume accordingly fo
       <td>X/50 g</td>
       <td>20 g</td>
       <td>2 g</td>
-      <td>1 gL</td>
+      <td>1 g</td>
       <td>0.5 g</td>
       <td>0.25 g</td>
     </tr>
@@ -208,58 +208,32 @@ We need 0.5 mL CTAB buffer per sample. Prepare CTAB buffer volume accordingly fo
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-> | Solutions                | Volume/mass       |
-> |--------------------------|-------------------|
-> |         Tris HCl (1M)    |   5 mL            |
-> |         EDTA (0.5M)      |   2 mL            |
-> |         NaCl (5M)        |   14 mL           |
-> |         CTAB             |   1 g             |
-> |         H<sub>2</sub>O              |   30 mL           |
-> 
->***Note:*** Adjust the volume of solutions needed to prepare the amount of CTAB buffer needed for the number of samples (0.5 mL per sample). The above amounts will prepare enough stock solution for 100 extractions (50 mL).
 <br>
-
-→ *Required*: 2-mercaptoethanol (β-mercaptoethanol) (it's in the fumehood); polyvinylpyrrolidone (PVP)(by weight balance)(k-30, S<sub>abc</sub>)
+#### <ins>Other Stocks required:<ins>
+→ 2-mercaptoethanol (β-mercaptoethanol) (it's in the fumehood)
+→ polyvinylpyrrolidone (PVP)(k-30, S<sub>ABC</sub>) (by weight balance)
 
 #### <ins>TE Buffer:<ins>
 
-> | Solutions                | Volume            |
-> |--------------------------|-------------------|
-> |         Tris-EDTA (100x) |   0.1 mL          |
-> |         H20              |   9.9 mL          |
+We need 100 µL of 1x TE buffer per sample (rxn). Prepare TE buffer needed for N number of samples.
+
+
+> | Solutions                | 100 mL for 1000 rxn | 10 mL for 100 rxn | 5 mL for 50 rxn   |
+> |--------------------------|---------------------|-------------------|-------------------|
+> |         Tris-EDTA (100x) |   1 mL              |   0.1 mL          |   0.05 mL         |
+> |         H20              |   99 mL             |   9.9 mL          |   4.95 mL         |
 > 
->***Note:*** Adjust the volume of solutions needed to prepare the amount of TE buffer needed for the number of samples (100 μL per sample). The above amounts will prepare enough stock solution for 100 extractions (10 mL).
+
 <br>
 
+---
 
 ### <b>Be sure to autoclave all buffers!</b>
 
 <br>
+
+---
+---
 
 Functions of reagents in buffers:
 
@@ -276,6 +250,9 @@ Heikrujam et al. 2020: If cells are in hypotonic solution, cell bursting… If i
 
 :small_blue_diamond: β-mercaptoethanol (2-mercaptoethanol): *reducing agent, removes tannins and polyphenols*
 
+
+---
+---
 
 <br>
 
