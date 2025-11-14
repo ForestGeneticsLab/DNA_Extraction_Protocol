@@ -235,7 +235,7 @@ We need 100 µL of 1x TE buffer per sample (rxn). Prepare TE buffer needed for N
 <br>
 
 ---
----
+
 
 Functions of reagents in buffers:
 
