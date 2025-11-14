@@ -82,7 +82,7 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
   <thead>
     <tr>
       <th rowspan="2">Solutions</th>
-      <th colspan="3">Volume of Stock Solution to be Prepared</th>
+      <th colspan="4">Volume of Stock Solution to be Prepared</th>
     </tr>
     <tr>
       <th>100 mL</th>
