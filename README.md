@@ -79,7 +79,7 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 ### Reagents and Solutions
 #### <ins>Washing Buffer:<ins>
 
-We need 1 mL Washing buffer per sample. Prepare the volume of washing buffer for N samples (rxn) with appropirate proportion of reagents, following the table below;
+We need 1 mL Washing buffer per sample. Prepare more than N mL of washing buffer for N samples (rxn) with appropirate proportion of reagents, following the table below;
 
 <table>
   <thead>
@@ -138,7 +138,7 @@ We need 1 mL Washing buffer per sample. Prepare the volume of washing buffer for
 
 #### <ins>CTAB Extraction Buffer:<ins>
 
-We need 0.5 mL CTAB buffer per sample. Prepare CTAB buffer volume for N rxt following the proportion of reagents as shown in the following table;
+We need 0.5 mL CTAB buffer per sample. Prepare more than (N/2) mL of CTAB buffer for N rxn with the proportion of reagents as shown in the following table;
 
 
 <table>
@@ -217,13 +217,13 @@ We need 0.5 mL CTAB buffer per sample. Prepare CTAB buffer volume for N rxt foll
 
 #### <ins>TE Buffer:<ins>
 
-We need 100 µL of 1x TE buffer per sample (rxn). Prepare TE buffer needed for N number of samples.
+We need 100 µL of 1x TE buffer per sample (rxn). Prepare more than (100xN) µL of TE buffer needed for N number of samples.
 
 
-> | Solutions                | 100 mL for 1000 rxn | 10 mL for 100 rxn | 5 mL for 50 rxn   |
-> |--------------------------|---------------------|-------------------|-------------------|
-> |         Tris-EDTA (100x) |   1 mL              |   0.1 mL          |   0.05 mL         |
-> |         H20              |   99 mL             |   9.9 mL          |   4.95 mL         |
+> | Solutions                | X mL for N rxn      | 100 mL for 1000 rxn | 10 mL for 100 rxn | 5 mL for 50 rxn   |
+> |--------------------------|---------------------|---------------------|-------------------|-------------------|
+> |         Tris-EDTA (100x) |   X/100 mL          |   1 mL              |   0.1 mL          |   0.05 mL         |
+> |         H20              |   99X/100 mL        |   99 mL             |   9.9 mL          |   4.95 mL         |
 > 
 
 <br>
@@ -271,7 +271,7 @@ Heikrujam et al. 2020: If cells are in hypotonic solution, cell bursting… If i
 
 ### Pre-Wash Protocol
 
-1.	Measure out washing buffer stock: 1 mL per reaction plus 10% +/- volume.
+1.	Measure out washing buffer stock: 1 mL per reaction (plus N10% volume.
 2.	Add 0.01 g × (number of reactions) PVP, and 4.5 µL × (number of reactions) β-mercaptoethanol for the number of reactions
 3.	Shake vigorously to mix.
 4.	Stuff bead mill tubes with foliage sample as needed (~300 mg for pine species), being careful to not cross contaminate samples. If using hands to stuff tubes, change gloves for each sample.
