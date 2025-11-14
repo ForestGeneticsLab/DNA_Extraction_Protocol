@@ -74,11 +74,12 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 :point_right: Reference: [Doyle and Doyle 1987](https://webpages.charlotte.edu/~jweller2/pages/BINF8350f2011/BINF8350_Readings/Doyle_plantDNAextractCTAB_1987.pdf), and [Cullings 1992](https://doi.org/10.1111/j.1365-294X.1992.tb00182.x), With modifications by Jeremy Johnson
 
 **Purpose:** Cost-effective method for extracting DNA from plants with high polysaccharide content.
+<br>
 
 ### Reagents and Solutions
 #### <ins>Washing Buffer:<ins>
 
-We need 1 mL Washing buffer per sample. Prepare the washing buffer as needed with certain proportion of reagents.
+We need 1 mL Washing buffer per sample. Prepare the volume of washing buffer as needed with certain proportion of reagents, following the table below;
 
 <table>
   <thead>
@@ -126,17 +127,106 @@ We need 1 mL Washing buffer per sample. Prepare the washing buffer as needed wit
 </table>
 
 
-
-
-
-
-
-
-
+---
 
 
 
 #### <ins>CTAB Extraction Buffer:<ins>
+
+We need 0.5 mL CTAB buffer per sample. Prepare CTAB buffer volume accordingly following the proportion of reagents as shown in the following table;
+
+
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Solutions</th>
+      <th colspan="6">Volume of Stock Solution to be Prepared</th>
+    </tr>
+    <tr>
+      <th>X mL</th>
+      <th>1000 mL</th>
+      <th>100 mL</th>
+      <th>50 mL</th>
+      <th>25 mL</th>  
+      <th>12 mL</th>       
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Tris HCl (1M)</td>
+      <td>0.1*X mL</td>
+      <td>100 mL</td>
+      <td>100 mL</td>
+      <td>5 mL</td>
+      <td>2.5 mL</td>
+      <td>1.25 mL</td>
+    </tr>
+    <tr>
+      <td>EDTA (0.5M)</td>
+      <td>0.04*X mL</td>
+      <td>40 mL</td>
+      <td>4 mL</td>
+      <td>2 mL</td>
+      <td>1 mL</td>
+      <td>0.5 mL</td>
+    </tr>
+    <tr>
+      <td>NaCl (5M)</td>
+      <td>0.28*X mL</td>
+      <td>280 mL</td>
+      <td>28 mL</td>
+      <td>14 mL</td>
+      <td>7 mL</td>
+      <td>3.5 mL</td>
+    </tr>
+    <tr>
+      <td>CTAB</td>
+      <td>X/50 g</td>
+      <td>20 g</td>
+      <td>2 g</td>
+      <td>1 gL</td>
+      <td>0.5 g</td>
+      <td>0.25 g</td>
+    </tr>
+    <tr>
+      <td>H₂O</td>
+      <td>0.58*X mL</td>
+      <td>580 mL</td>
+      <td>58 mL</td>
+      <td>29 mL</td>
+      <td>14.5 mL</td>
+      <td>7.25 mL</td>
+    </tr>
+  </tbody>
+</table>
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 > | Solutions                | Volume/mass       |
 > |--------------------------|-------------------|
