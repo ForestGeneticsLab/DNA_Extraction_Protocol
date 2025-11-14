@@ -220,11 +220,11 @@ We need 0.5 mL CTAB buffer per sample. Prepare X mL (more than (N/2) mL) of CTAB
 We need 100 µL of 1x TE buffer per sample (rxn). Prepare X mL (more than (100xN) µL) of TE buffer needed for samples.
 
 
-> | Solutions                | X mL for N rxn      | 100 mL for 1000 rxn | 10 mL for 100 rxn | 5 mL for 50 rxn   |
-> |--------------------------|---------------------|---------------------|-------------------|-------------------|
-> |         Tris-EDTA (100x) |   X/100 mL          |   1 mL              |   0.1 mL          |   0.05 mL         |
-> |         H20              |   99X/100 mL        |   99 mL             |   9.9 mL          |   4.95 mL         |
-> 
+| Solutions                | X mL for N rxn      | 100 mL for 1000 rxn | 10 mL for 100 rxn | 5 mL for 50 rxn   |
+|--------------------------|---------------------|---------------------|-------------------|-------------------|
+|         Tris-EDTA (100x) |   X/100 mL          |   1 mL              |   0.1 mL          |   0.05 mL         |
+|         H20              |   99X/100 mL        |   99 mL             |   9.9 mL          |   4.95 mL         |
+ 
 
 <br>
 
@@ -270,8 +270,8 @@ Heikrujam et al. 2020: If cells are in hypotonic solution, cell bursting… If i
 
 ### Pre-Wash Protocol
 
-1.  Measure out washing buffer stock (1 mL per reaction) and 10% overage (N + (0.1*N) mL). (eg. for 24 samples, 24 + 2.4 = 26.4 mL)
-2.	Stuff bead mill tubes with foliage sample as needed (~30 mg for pine, spruce species), being careful to not cross contaminate samples. If using hands to stuff tubes, change gloves for each sample. (If tissue is tough, grind with a mortar and pestle before transfer)
+1.  Measure out washing buffer stock (1 mL per reaction) and 10% overage.<br> >i.e. (N + 0.1*N) mL. eg. for 24 samples, 24 + 2.4 = 26.4 mL)
+2.	Stuff bead mill tubes with foliage sample as needed<br>  >*(~30 mg for pine, spruce species), being careful to not cross contaminate samples. If using hands to stuff tubes, change gloves for each sample. (If tissue is tough, grind with a mortar and pestle before transfer)*
 3.	Add 1 mL Washing buffer, then 0.01 g PVP, and 4.5 µL β-mercaptoethanol.<br> Strategy for this can be like: Adding 0.01*(11N/10) g of PVP, then 4.5*(11N/10) µL of β-ME (in fumehood) to the measured washing buffer.
 <br> → *Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
 4. Insert bead mill tubes into bead mill, making sure that the tubes are in a balanced arrangement.
