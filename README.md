@@ -79,7 +79,7 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 ### Reagents and Solutions
 #### <ins>Washing Buffer:<ins>
 
-We need 1 mL Washing buffer per sample. Prepare more than N mL of washing buffer for N samples (rxn) with appropirate proportion of reagents, following the table below;
+We need 1 mL Washing buffer per sample. Prepare X mL (more than N mL) of washing buffer for N samples (rxn) with appropirate proportion of reagents, following the table below;
 
 <table>
   <thead>
@@ -138,7 +138,7 @@ We need 1 mL Washing buffer per sample. Prepare more than N mL of washing buffer
 
 #### <ins>CTAB Extraction Buffer:<ins>
 
-We need 0.5 mL CTAB buffer per sample. Prepare more than (N/2) mL of CTAB buffer for N rxn with the proportion of reagents as shown in the following table;
+We need 0.5 mL CTAB buffer per sample. Prepare X mL (more than (N/2) mL) of CTAB buffer for N rxn with the proportion of reagents as shown in the following table;
 
 
 <table>
@@ -217,7 +217,7 @@ We need 0.5 mL CTAB buffer per sample. Prepare more than (N/2) mL of CTAB buffer
 
 #### <ins>TE Buffer:<ins>
 
-We need 100 µL of 1x TE buffer per sample (rxn). Prepare more than (100xN) µL of TE buffer needed for N number of samples.
+We need 100 µL of 1x TE buffer per sample (rxn). Prepare X mL (more than (100xN) µL) of TE buffer needed for samples.
 
 
 > | Solutions                | X mL for N rxn      | 100 mL for 1000 rxn | 10 mL for 100 rxn | 5 mL for 50 rxn   |
