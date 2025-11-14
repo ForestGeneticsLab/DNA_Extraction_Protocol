@@ -270,16 +270,19 @@ Heikrujam et al. 2020: If cells are in hypotonic solution, cell bursting… If i
 
 ### Pre-Wash Protocol
 
-1.  Measure out washing buffer stock (1 mL per reaction) and 10% overage.<br> >i.e. (N + 0.1*N) mL. eg. for 24 samples, 24 + 2.4 = 26.4 mL)
-2.	Stuff bead mill tubes with foliage sample as needed<br>  >*(~30 mg for pine, spruce species), being careful to not cross contaminate samples. If using hands to stuff tubes, change gloves for each sample. (If tissue is tough, grind with a mortar and pestle before transfer)*
-3.	Add 1 mL Washing buffer, then 0.01 g PVP, and 4.5 µL β-mercaptoethanol.<br> Strategy for this can be like: Adding 0.01*(11N/10) g of PVP, then 4.5*(11N/10) µL of β-ME (in fumehood) to the measured washing buffer.
-<br> → *Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
+1.  Measure out washing buffer stock (1 mL per reaction) plus about 10% overage.
+<br> *i.e. (N + 0.1xN= 11N/10) mL. eg. for **24 samples**, 24 + 2.4 = **26.4 mL**)*
+2.	Stuff bead mill tubes with foliage sample as needed.
+>  *(~30 mg for pine, spruce species), being careful to not cross contaminate samples. If using hands to stuff tubes, change gloves for each sample. (If tissue is tough, grind with a mortar and pestle before transfer)*
+3.	Add 1 mL Washing buffer, then 0.01 g PVP, and 4.5 µL β-mercaptoethanol.
+> *Strategy for this can be like: Adding **0.01 x (11N/10)** g of **PVP** (eg. 0.264 g for 24 rxn), then **4.5 x (11N/10)** µL (eg. 118.8 µL for 24 rxn) of **β-ME** (in fumehood) to the measured washing buffer. Then add 1004.5 µL of the mix to each bead mill tube*.
+>> *Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
 4. Insert bead mill tubes into bead mill, making sure that the tubes are in a balanced arrangement.
 5. Run bead mill for 2 minutes at 3.55 m/s.
 6. Transfer bead mill tubes to centrifuge, making sure that the tubes are in a balanced arrangement.
 7.	Spin tubes in centrifuge for 10 min at >10,000 rpm.
 8.	Pipette off supernatant and keep the pellet.
-9. Proceed with regular extraction protocol immediately
+9. Proceed with regular extraction protocol immediately.
 
 
 ---
@@ -287,42 +290,43 @@ Heikrujam et al. 2020: If cells are in hypotonic solution, cell bursting… If i
 
 ### CTAB Protocol
 
-1.	Prepare **CTAB buffer**: [0.5 mL/rxn+10% CTAB stock. Add 0.02g PVP and 2.5 uL β-mercaptoethanol for each reaction](#extraction-buffer).
-2.	Add 500 µL CTAB buffer to each tube
+1.  Measure out the incubated **CTAB buffer** (0.5 mL/rxn plus 10% overage) *i.e. 11N/20 mL. (eg. **13.2 mL for 24 samples**)*
+2.	Add 0.02g PVP and 2.5 µL β-mercaptoethanol for each reaction.
+> *To the measured 11N/20 mL CTAB buffer, add **0.02 x 11N/10** g (eg. 0.528 g for 24 samples) **PVP**, then **2.5 x 11N/10** µL (eg. 66 µL for 24 samples) **β-ME**. Then, add 502.5 µL(500 + 2.5) of the CTAB buffer, PVP and β-ME mix to each tube.*
 3.	Mix vigorously (use pipette tip to guarantee complete mixing)
 4.	Incubate samples at 65°C using the Eppendorf thermos mixer for 3 hours
 5.	Add 500 µL of 24:1 Chloroform: Isoamyl Alcohol and mix well by vortexing (use filter tips) 
 6.	Centrifuge for 5-10 min at maximum speed<br>
 a.	Following centrifugation, you should have 3 layers: **aqueous phase** (top), **debris and proteins** (middle), and **chloroform** (bottom).<br> →  *Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in aqueous phase*. <br>
 b.	Go onto next step quickly so the phases do not remix
-8.	Pipette off aqueous phase taking care not to suck up any of the middle proteins debris and bottom chloroform phases. Pipetting slowly helps with this.
-9.	Place the aqueous phase into a new labeled Eppendorf tube
-10.	Repeat steps 5-6
-11.	Pipette off aqueous phase (~300 µL) taking care not to suck up the protein or chloroform phases<br>
+7.	Pipette off aqueous phase taking care not to suck up any of the middle proteins debris and bottom chloroform phases. Pipetting slowly helps with this.
+8.	Place the aqueous phase into a new labeled Eppendorf tube
+9.	Repeat steps 5-6
+10.	Pipette off aqueous phase (~300 µL) taking care not to suck up the protein or chloroform phases<br>
 a.	Pay particular attention to the slight protein layer at this point. Pipette less aqueous phase in order to avoid the other phases will improve quality of DNA
-12.	Place the aqueous phase into a new labeled Eppendorf tube
-13.	Estimate the volume of the aqueous phase ~ 300 µL
-14.	Add 0.08 volumes (~24 µL) of cold 7.5 M ammonium acetate
-15.	Add 0.54 volume (~162 µL) of cold isopropanol (2-propanal) (isopropanol precipitates DNA)
-16.	Mix well
-17.	Incubate in -20°C freezer for 1 hour<br>
+11.	Place the aqueous phase into a new labeled Eppendorf tube
+12.	Estimate the volume of the aqueous phase ~ 300 µL
+13.	Add 0.08 volumes (~24 µL) of cold 7.5 M ammonium acetate
+14.	Add 0.54 volume (~162 µL) of cold isopropanol (2-propanal) (isopropanol precipitates DNA)
+15.	Mix well
+16.	Incubate in -20°C freezer for 1 hour<br>
 a.	Longer times will yield more DNA, but also more contaminants
-18.	Centrifuge for 3 min at maximum speed
-19.	Pour or pipette off the liquid. Do not lose the DNA pellet
-20.	Add 700 µL of cold 70% Ethanol, and mix well
-21.	Centrifuge for 1 min at maximum speed
-22.	Pour or pipette off the liquid, Do not lose the DNA pellet
-23.	Add 700 uL of cold 99% Ethanol and mix
-24.	Centrifuge for 1 min at maximum speed
-25.	Pour or pipette off the liquid, do not lose the DNA pellet
-26.	Dry the pellet for 30 min in the SpeedVac<br>
+17.	Centrifuge for 3 min at maximum speed
+18.	Pour or pipette off the liquid. Do not lose the DNA pellet
+19.	Add 700 µL of cold 70% Ethanol, and mix well
+20.	Centrifuge for 1 min at maximum speed
+21.	Pour or pipette off the liquid, Do not lose the DNA pellet
+22.	Add 700 uL of cold 99% Ethanol and mix
+23.	Centrifuge for 1 min at maximum speed
+24.	Pour or pipette off the liquid, do not lose the DNA pellet
+25.	Dry the pellet for 30 min in the SpeedVac<br>
 a.	Turn on the rotor first and wait for the vacuum to start<br>
 b.	Set the temperature to 30°C<br>
 c.	Turn on the motor second and start suction<br>
 d.	Reverse steps to stop
-<br> → *If SpeedVac is not availible, allow pellets to dry with Eppendorf tube cap open in fume hood for 1-2 hours.*
-27.	Resuspend samples with 100 µL of 1x TE buffer. Allow to resuspend for 1 hr at 55°C or overnight in refrigerator before running a test gel using 5 µL of the DNA
-28.	Clean DNA using an **Ethanol precipitation protocol** (below) if needed
+<br> → *If SpeedVac is not availible, **allow pellets to dry with Eppendorf tube cap open in fume hood for 1-2 hours**.*
+26.	Resuspend samples with 100 µL of 1x TE buffer. Allow to resuspend for 1 hr at 55°C or overnight in refrigerator before running a test gel using 5 µL of the DNA
+27.	Clean DNA using an **Ethanol precipitation protocol** (below) if needed
 
 
 ---
