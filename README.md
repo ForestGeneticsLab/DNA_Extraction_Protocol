@@ -236,7 +236,6 @@ We need 100 µL of 1x TE buffer per sample (rxn). Prepare X mL (more than (100xN
 
 ---
 
-
 Functions of reagents in buffers:
 
 :small_blue_diamond: CTAB (Cetyl Triethyl Ammonium Bromide): *Cationic detergent, removes polysaccharides (cellulose) and secondary metabolites, breaks cell membrane*
@@ -260,7 +259,7 @@ Heikrujam et al. 2020: If cells are in hypotonic solution, cell bursting… If i
 
 ## Extraction begins:
 
-**Prep:** After pre-wash, the regular extraction procedure continues immediately. Therefore, before starting the pre-wash, the regular extraction buffer needs to be prepared and during the pre-wash period, the extraction buffer needs to be heated in an incubator.
+***Prep*:** After pre-wash, the regular extraction procedure continues immediately. Therefore, before starting the pre-wash, the regular extraction buffer needs to be prepared, autoclaved (as mentioned above) and during the pre-wash period, the extraction buffer needs to be heated in an incubator.
 
 *Preheat the heat thermos-mixer to 65°C*
 
@@ -271,18 +270,16 @@ Heikrujam et al. 2020: If cells are in hypotonic solution, cell bursting… If i
 
 ### Pre-Wash Protocol
 
-1.	Measure out washing buffer stock: 1 mL per reaction (plus N10% volume.
-2.	Add 0.01 g × (number of reactions) PVP, and 4.5 µL × (number of reactions) β-mercaptoethanol for the number of reactions
-3.	Shake vigorously to mix.
-4.	Stuff bead mill tubes with foliage sample as needed (~300 mg for pine species), being careful to not cross contaminate samples. If using hands to stuff tubes, change gloves for each sample.
-5.	Add 1 ml of washing buffer to each tube. Vortex for a few seconds
+1.  Measure out washing buffer stock (1 mL per reaction) and 10% overage (N + (0.1*N) mL). (eg. for 24 samples, 24 + 2.4 = 26.4 mL)
+2.	Stuff bead mill tubes with foliage sample as needed (~30 mg for pine, spruce species), being careful to not cross contaminate samples. If using hands to stuff tubes, change gloves for each sample. (If tissue is tough, grind with a mortar and pestle before transfer)
+3.	Add 1 mL Washing buffer, then 0.01 g PVP, and 4.5 µL β-mercaptoethanol.<br> Strategy for this can be like: Adding 0.01*(11N/10) g of PVP, then 4.5*(11N/10) µL of β-ME (in fumehood) to the measured washing buffer.
 <br> → *Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
-6. Insert bead mill tubes containing tissue and buffer into bead mill, making sure that the tubes are in a balanced arrangement.
-7. Run bead mill for 2 minutes at 3.55 m/s.
-8. Transfer bead mill tubes to centrifuge, making sure that the tubes are in a balanced arrangement.
-9.	Spin tubes in centrifuge for 10 min at >10,000 rpm.
-10.	Pipette off supernatant and keep the pellet.
-11. Proceed with regular extraction protocol immediately
+4. Insert bead mill tubes into bead mill, making sure that the tubes are in a balanced arrangement.
+5. Run bead mill for 2 minutes at 3.55 m/s.
+6. Transfer bead mill tubes to centrifuge, making sure that the tubes are in a balanced arrangement.
+7.	Spin tubes in centrifuge for 10 min at >10,000 rpm.
+8.	Pipette off supernatant and keep the pellet.
+9. Proceed with regular extraction protocol immediately
 
 
 ---
