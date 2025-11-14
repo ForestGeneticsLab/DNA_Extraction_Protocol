@@ -88,6 +88,7 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
       <th>100 mL</th>
       <th>50 mL</th>
       <th>25 mL</th>
+      <th>X mL</th>
     </tr>
   </thead>
   <tbody>
@@ -96,24 +97,28 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
       <td>10 mL</td>
       <td>5 mL</td>
       <td>2.5 mL</td>
+      <td>0.1*X mL</td>
     </tr>
     <tr>
       <td>EDTA (0.5M)</td>
       <td>10 mL</td>
       <td>5 mL</td>
       <td>2.5 mL</td>
+      <td>0.1*X mL</td>
     </tr>
     <tr>
       <td>NaCl (5M)</td>
       <td>20 mL</td>
       <td>10 mL</td>
       <td>5 mL</td>
+      <td>0.2*X mL</td>
     </tr>
     <tr>
       <td>H₂O</td>
       <td>60 mL</td>
       <td>30 mL</td>
       <td>15 mL</td>
+      <td>0.6*X mL</td>
     </tr>
   </tbody>
 </table>
