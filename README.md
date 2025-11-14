@@ -85,10 +85,11 @@ We need 1 mL Washing buffer per sample. Prepare the volume of washing buffer as 
   <thead>
     <tr>
       <th rowspan="2">Solutions</th>
-      <th colspan="4">Volume of Stock Solution to be Prepared</th>
+      <th colspan="5">Volume of Stock Solution to be Prepared</th>
     </tr>
     <tr>
       <th>X mL</th>
+      <th>1000 mL</th>
       <th>100 mL</th>
       <th>50 mL</th>
       <th>25 mL</th>      
@@ -98,6 +99,7 @@ We need 1 mL Washing buffer per sample. Prepare the volume of washing buffer as 
     <tr>
       <td>Tris HCl (1M)</td>
       <td>0.1*X mL</td>
+      <td>100 mL</td>
       <td>10 mL</td>
       <td>5 mL</td>
       <td>2.5 mL</td>
@@ -105,6 +107,7 @@ We need 1 mL Washing buffer per sample. Prepare the volume of washing buffer as 
     <tr>
       <td>EDTA (0.5M)</td>
       <td>0.1*X mL</td>
+      <td>100 mL</td>
       <td>10 mL</td>
       <td>5 mL</td>
       <td>2.5 mL</td>
@@ -112,6 +115,7 @@ We need 1 mL Washing buffer per sample. Prepare the volume of washing buffer as 
     <tr>
       <td>NaCl (5M)</td>
       <td>0.2*X mL</td>
+      <td>200 mL</td>
       <td>20 mL</td>
       <td>10 mL</td>
       <td>5 mL</td>
@@ -119,6 +123,7 @@ We need 1 mL Washing buffer per sample. Prepare the volume of washing buffer as 
     <tr>
       <td>H₂O</td>
       <td>0.6*X mL</td>
+      <td>600 mL</td>
       <td>60 mL</td>
       <td>30 mL</td>
       <td>15 mL</td>
