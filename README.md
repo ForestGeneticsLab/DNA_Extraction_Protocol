@@ -212,7 +212,7 @@ We need 0.5 mL CTAB buffer per sample. Prepare CTAB buffer volume for N rxt foll
 
 
 #### <ins>Other Stocks required:<ins>
-→ 2-mercaptoethanol (β-mercaptoethanol) (it's in the fumehood)
+→ 2-mercaptoethanol (β-mercaptoethanol) (it's in the fumehood)<br>
 → polyvinylpyrrolidone (PVP)(k-30, S<sub>ABC</sub>) (by weight balance)
 
 #### <ins>TE Buffer:<ins>
