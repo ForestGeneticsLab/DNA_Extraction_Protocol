@@ -272,10 +272,10 @@ Heikrujam et al. 2020: If cells are in hypotonic solution, cell bursting… If i
 
 1.  Measure out washing buffer stock (1 mL per reaction) plus about 10% overage.
 <br> *i.e. (N + 0.1xN= 11N/10) mL. eg. for **24 samples**, 24 + 2.4 = **26.4 mL**)*
-2.	Stuff bead mill tubes with foliage sample as needed.
->  *(~30 mg for pine, spruce species), being careful to not cross contaminate samples. If using hands to stuff tubes, change gloves for each sample. (If tissue is tough, grind with a mortar and pestle before transfer)*
-3.	Add 1 mL Washing buffer, then 0.01 g PVP, and 4.5 µL β-mercaptoethanol.
-> *Strategy for this can be like: Adding **0.01 x (11N/10)** g of **PVP** (eg. 0.264 g for 24 rxn), then **4.5 x (11N/10)** µL (eg. 118.8 µL for 24 rxn) of **β-ME** (in fumehood) to the measured washing buffer. Then add 1004.5 µL of the mix to each bead mill tube*.
+2.	Stuff bead mill tubes with foliage sample as needed.<br>
+*(~30 mg for pine, spruce species), being careful to not cross contaminate samples. If using hands to stuff tubes, change gloves for each sample. (If tissue is tough, grind with a mortar and pestle before transfer)*
+3.	Add 1 mL Washing buffer, then 0.01 g PVP, and 4.5 µL β-mercaptoethanol.<br>
+*Strategy for this can be like: Adding **0.01 x (11N/10)** g of **PVP** (eg. 0.264 g for 24 rxn), then **4.5 x (11N/10)** µL (eg. 118.8 µL for 24 rxn) of **β-ME** (in fumehood) to the measured washing buffer. Then add 1004.5 µL of the mix to each bead mill tube*.
 >> *Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
 4. Insert bead mill tubes into bead mill, making sure that the tubes are in a balanced arrangement.
 5. Run bead mill for 2 minutes at 3.55 m/s.
@@ -291,8 +291,7 @@ Heikrujam et al. 2020: If cells are in hypotonic solution, cell bursting… If i
 ### CTAB Protocol
 
 1.  Measure out the incubated **CTAB buffer** (0.5 mL/rxn plus 10% overage) *i.e. 11N/20 mL. (eg. **13.2 mL for 24 samples**)*
-2.	Add 0.02g PVP and 2.5 µL β-mercaptoethanol for each reaction.
-> *To the measured 11N/20 mL CTAB buffer, add **0.02 x 11N/10** g (eg. 0.528 g for 24 samples) **PVP**, then **2.5 x 11N/10** µL (eg. 66 µL for 24 samples) **β-ME**. Then, add 502.5 µL(500 + 2.5) of the CTAB buffer, PVP and β-ME mix to each tube.*
+2.	Add 0.02g PVP and 2.5 µL β-mercaptoethanol for each reaction.<br> *To the measured 11N/20 mL CTAB buffer, add **0.02 x 11N/10** g (eg. 0.528 g for 24 samples) **PVP**, then **2.5 x 11N/10** µL (eg. 66 µL for 24 samples) **β-ME**. Then, add 502.5 µL(500 + 2.5) of the CTAB buffer, PVP and β-ME mix to each tube.*
 3.	Mix vigorously (use pipette tip to guarantee complete mixing)
 4.	Incubate samples at 65°C using the Eppendorf thermos mixer for 3 hours
 5.	Add 500 µL of 24:1 Chloroform: Isoamyl Alcohol and mix well by vortexing (use filter tips) 
