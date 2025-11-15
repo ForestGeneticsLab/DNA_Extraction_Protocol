@@ -296,15 +296,13 @@ Functions of reagents in buffers:
 4.	Incubate samples at 65°C using the Eppendorf thermos mixer for 3 hours.
 5.	Add 500 µL of 24:1 Chloroform: Isoamyl Alcohol and mix well by vortexing (use filter tips).
 6.	Centrifuge for 5-10 min at maximum speed<br>
-→	Following centrifugation, you should have 3 layers: **aqueous phase** (top), **debris and proteins** (middle), and **chloroform** (bottom).<br>
->> *Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in aqueous phase*. <br>
-
-> →	Go onto next step quickly so the phases do not remix.
+→	Following centrifugation, you should have 3 layers: **aqueous phase** (top), **debris and proteins** (middle), and **chloroform** (bottom). (*Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in aqueous phase*. <br>
+→	Go onto next step quickly so the phases do not remix.
 
 7.	Pipette off aqueous phase taking care not to suck up any of the middle proteins debris and bottom chloroform phases. Pipetting slowly helps with this.
 8.	Place the aqueous phase into a new labeled Eppendorf tube.
 9.	Repeat steps 5-8.
-10.	Pipette off aqueous phase (~300 µL) taking care not to suck up the protein or chloroform phases<br>
+10.	Pipette off aqueous phase (~300 µL) taking care not to suck up the protein or chloroform phase.s<br>
 →	Pay particular attention to the slight protein layer at this point. Pipette less aqueous phase in order to avoid the other phases will improve quality of DNA.
 11.	Place the aqueous phase into a new labeled Eppendorf tube.
 12.	Add 0.08 volumes (~24 µL) of cold 7.5 M ammonium acetate.
@@ -324,7 +322,7 @@ Functions of reagents in buffers:
 >> c.	Turn on the motor second and start suction<br>
 >> d.	Reverse steps to stop<br>
 
-> → *If SpeedVac is not availible, **allow pellets to dry with Eppendorf tube cap open in fume hood for 1-2 hours**.*<br>
+→ *If SpeedVac is not availible, **allow pellets to dry with Eppendorf tube cap open in fume hood for 1-2 hours**.*<br>
 
 24.	Resuspend samples with 100 µL of 1x TE buffer (around 8.0 pH). Allow to resuspend for 1 hr at 55°C or overnight in refrigerator before measuring purity, concentration or running a test gel.
 25.	Clean DNA using an **Ethanol precipitation protocol** (below) if needed.
