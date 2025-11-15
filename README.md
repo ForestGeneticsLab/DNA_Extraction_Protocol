@@ -297,34 +297,35 @@ Functions of reagents in buffers:
 5.	Add 500 µL of 24:1 Chloroform: Isoamyl Alcohol and mix well by vortexing (use filter tips).
 6.	Centrifuge for 5-10 min at maximum speed<br>
 →	Following centrifugation, you should have 3 layers: **aqueous phase** (top), **debris and proteins** (middle), and **chloroform** (bottom).<br>
-> *Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in aqueous phase*. <br>
+>> *Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in aqueous phase*. <br>
 
-→	Go onto next step quickly so the phases do not remix.
+> →	Go onto next step quickly so the phases do not remix.
 
 7.	Pipette off aqueous phase taking care not to suck up any of the middle proteins debris and bottom chloroform phases. Pipetting slowly helps with this.
 8.	Place the aqueous phase into a new labeled Eppendorf tube.
 9.	Repeat steps 5-8.
 10.	Pipette off aqueous phase (~300 µL) taking care not to suck up the protein or chloroform phases<br>
 →	Pay particular attention to the slight protein layer at this point. Pipette less aqueous phase in order to avoid the other phases will improve quality of DNA.
-12.	Place the aqueous phase into a new labeled Eppendorf tube.
-13.	Add 0.08 volumes (~24 µL) of cold 7.5 M ammonium acetate.
-14.	Add 0.54 volume (~162 µL) of cold isopropanol (2-propanal) (isopropanol precipitates DNA)
-15.	Mix well and Incubate in -20°C freezer for 1 hour (Longer times will yield more DNA, but also more contaminants).
-16.	Centrifuge for 3 min at maximum speed.
-17.	Pour or pipette off the liquid. Do not lose the DNA pellet.
-18.	Add 700 µL of cold 70% Ethanol, and mix well.
-19.	Centrifuge for 1 min at maximum speed.
-20.	Pour or pipette off the liquid, Do not lose the DNA pellet.
-21.	Add 700 uL of cold 99% Ethanol and mix well.
-22.	Centrifuge for 1 min at maximum speed.
-23.	Pour or pipette off the liquid, do not lose the DNA pellet.
-24.	Dry the pellet for 30 min in the SpeedVac<br>
+11.	Place the aqueous phase into a new labeled Eppendorf tube.
+12.	Add 0.08 volumes (~24 µL) of cold 7.5 M ammonium acetate.
+13.	Add 0.54 volume (~162 µL) of cold isopropanol (2-propanal) (isopropanol precipitates DNA)
+14.	Mix well and Incubate in -20°C freezer for 1 hour (Longer times will yield more DNA, but also more contaminants).
+15.	Centrifuge for 3 min at maximum speed.
+16.	Pour or pipette off the liquid. Do not lose the DNA pellet.
+17.	Add 700 µL of cold 70% Ethanol, and mix well.
+18.	Centrifuge for 1 min at maximum speed.
+19.	Pour or pipette off the liquid, Do not lose the DNA pellet.
+20.	Add 700 uL of cold 99% Ethanol and mix well.
+21.	Centrifuge for 1 min at maximum speed.
+22.	Pour or pipette off the liquid, do not lose the DNA pellet.
+23.	Dry the pellet for 30 min in the SpeedVac<br>
 >> a.	Turn on the rotor first and wait for the vacuum to start<br>
 >> b.	Set the temperature to 30°C<br>
 >> c.	Turn on the motor second and start suction<br>
 >> d.	Reverse steps to stop<br>
 
- → *If SpeedVac is not availible, **allow pellets to dry with Eppendorf tube cap open in fume hood for 1-2 hours**.*
+> → *If SpeedVac is not availible, **allow pellets to dry with Eppendorf tube cap open in fume hood for 1-2 hours**.*<br>
+
 24.	Resuspend samples with 100 µL of 1x TE buffer (around 8.0 pH). Allow to resuspend for 1 hr at 55°C or overnight in refrigerator before measuring purity, concentration or running a test gel.
 25.	Clean DNA using an **Ethanol precipitation protocol** (below) if needed.
 
