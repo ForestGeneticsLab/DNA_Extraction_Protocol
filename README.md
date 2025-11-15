@@ -223,7 +223,7 @@ We need 100 µL of 1x TE buffer per sample (rxn). Prepare X mL (more than (100xN
 | Solutions                | X mL for N rxn      | 100 mL for 1000 rxn | 10 mL for 100 rxn | 5 mL for 50 rxn   |
 |--------------------------|---------------------|---------------------|-------------------|-------------------|
 |         Tris-EDTA (100x) |   X/100 mL          |   1 mL              |   0.1 mL          |   0.05 mL         |
-|         H20              |   99X/100 mL        |   99 mL             |   9.9 mL          |   4.95 mL         |
+|         H₂O              |   99X/100 mL        |   99 mL             |   9.9 mL          |   4.95 mL         |
  
 
 <br>
