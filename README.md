@@ -298,6 +298,7 @@ Functions of reagents in buffers:
 6.	Centrifuge for 5-10 min at maximum speed<br>
 →	Following centrifugation, you should have 3 layers: **aqueous phase** (top), **debris and proteins** (middle), and **chloroform** (bottom).<br>
 > *Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in aqueous phase*. <br>
+
 →	Go onto next step quickly so the phases do not remix.
 8.	Pipette off aqueous phase taking care not to suck up any of the middle proteins debris and bottom chloroform phases. Pipetting slowly helps with this.
 9.	Place the aqueous phase into a new labeled Eppendorf tube.
@@ -321,7 +322,8 @@ Functions of reagents in buffers:
 >> b.	Set the temperature to 30°C<br>
 >> c.	Turn on the motor second and start suction<br>
 >> d.	Reverse steps to stop<br>
-> → *If SpeedVac is not availible, **allow pellets to dry with Eppendorf tube cap open in fume hood for 1-2 hours**.*
+
+ → *If SpeedVac is not availible, **allow pellets to dry with Eppendorf tube cap open in fume hood for 1-2 hours**.*
 24.	Resuspend samples with 100 µL of 1x TE buffer (around 8.0 pH). Allow to resuspend for 1 hr at 55°C or overnight in refrigerator before measuring purity, concentration or running a test gel.
 25.	Clean DNA using an **Ethanol precipitation protocol** (below) if needed.
 
