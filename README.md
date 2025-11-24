@@ -280,7 +280,7 @@ We need **100 µL of 1x TE buffer per sample** (rxn) to resuspend DNA at the end
 >> • Bead mill doesn't grind the leaf needles (*Picea glauca*) well.  
 >> • Using an extra bead risks breaking the tube.  
 >>
->> **Better approach:** Add **500 µL** of the mix, bead mill **grind** (steps 4-5), add remaining **504.5 µL**, vortex, and proceed to steps 6–9
+>> **Better approach:** Add **500 µL** of the mix, bead mill **grind** (steps 4-5), add remaining **504.5 µL**, vortex, and proceed to steps 6–9 <br>
 > *Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
 4. Insert bead mill tubes into bead mill, making sure that the tubes are in a balanced arrangement.
 5. Run bead mill for 2 minutes at 3.55 m/s.
