@@ -76,10 +76,36 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 **Purpose:** Cost-effective method for extracting DNA from plants with high polysaccharide content.
 <br>
 
-### Reagents and Solutions
+### Reagents / Solutions and their functions
+
+
+:small_blue_diamond: **CTAB (Cetyl Triethyl Ammonium Bromide)**: *Cationic detergent, disrupts cell membranes, binds and removes polysaccharides (cellulose) and secondary metabolites.*
+
+:small_blue_diamond: **1 mM Tris HCl** :- *Maintains a stable pH.*
+
+:small_blue_diamond: 0.5 M **EDTA (EthyleneDiamineTetraacetic Acid)**: *Chelating agent. Binds metal cations like Mg<sup>++</sup> Ca<sup>++</sup> that can inactivate enzymes (like nucleases: DNase, RNase) and thus protects DNA from Degradation.*
+
+:small_blue_diamond: 5M **NaCl**: *Helps remove protein bound to the DNA. Na+ binds with negative phosphate of DNA and precipitate*.<br>
+>> Heikrujam et al. 2020: If cells are in hypotonic solution, cells may burst… If in hypertonic solution, water oozes out from the cell, and cells shrink and crumple. 0.5 M provides ionic strength needed for CTAB to precipitate polysaccharides. In protocols developed for getting rid of polysaccharides, higher concentration has been recommended.
+
+:small_blue_diamond: **PVP (PolyVinylPyrrolidone)**: *Absorbs polyphenols (by hydrogen bonding).*
+
+:small_blue_diamond: **β-mercaptoethanol (2-mercaptoethanol)**: *reducing agent, removes phenolic compounds tannins and polyphenols*
+
+:small_blue_diamond: **Chloroform : Isoamyl Alcohol (24:1)**: ***Chloroform** denatures proteins and lipids and help separating proteins from aqueous DNA phase. **Isoamyl alcohol** reduces foaming improming the phase separation.*
+
+:small_blue_diamond: **Ammonium Acetate** (ice cold): *precipitates contaminants (proteins, polysaccharides).*
+
+:small_blue_diamond: **Isopropanol** (ice cold): *at low temperature, it precipitates DNA.*
+
+:small_blue_diamond: **70% and 99% Ethanol (EtOH)** (ice cold): *washes DNA pellet.*
+
+
+Prepare **Washing Buffer** (Tris Hcl, EDTA, NACL, H<sub>2</sub>O) and **CTAB Buffer** (Tris Hcl, EDTA, NACL, H<sub>2</sub>O, CTAB), and 1x **TE Buffer** (to resuspend DNA at the end). 
+
 #### <ins>Washing Buffer:<ins>
 
-We need 1 mL Washing buffer per sample. Prepare X mL (more than N mL) of washing buffer for N samples (rxn) with appropirate proportion of reagents, following the table below;
+We need **1 mL Washing buffer per sample**. Prepare **X mL** (more than N mL) of washing buffer for N samples (rxn) with appropirate proportion of reagents, following the table below;
 
 <table>
   <thead>
@@ -138,7 +164,7 @@ We need 1 mL Washing buffer per sample. Prepare X mL (more than N mL) of washing
 
 #### <ins>CTAB Extraction Buffer:<ins>
 
-We need 0.5 mL CTAB buffer per sample. Prepare X mL (more than (N/2) mL) of CTAB buffer for N rxn with the proportion of reagents as shown in the following table;
+We need **0.5 mL CTAB buffer per sample**. Prepare **X mL** (more than (N/2) mL) of CTAB buffer for N rxn with the proportion of reagents as shown in the following table;
 
 
 <table>
@@ -211,13 +237,9 @@ We need 0.5 mL CTAB buffer per sample. Prepare X mL (more than (N/2) mL) of CTAB
 <br>
 
 
-#### <ins>Other Stocks required:<ins>
-→ 2-mercaptoethanol (β-mercaptoethanol) (it's in the fumehood)<br>
-→ polyvinylpyrrolidone (PVP)(k-30, S<sub>ABC</sub>) (by weight balance)
-
 #### <ins>TE Buffer:<ins>
 
-We need 100 µL of 1x TE buffer per sample (rxn) to resuspend DNA at the end. Prepare X mL (more than (100xN) µL) of TE buffer needed for samples.
+We need **100 µL of 1x TE buffer per sample** (rxn) to resuspend DNA at the end. Prepare **X mL** (more than (100xN) µL) of TE buffer needed for samples.
 
 
 | Solutions                | X mL for N rxn      | 100 mL for 1000 rxn | 10 mL for 100 rxn | 5 mL for 50 rxn   |
@@ -230,39 +252,17 @@ We need 100 µL of 1x TE buffer per sample (rxn) to resuspend DNA at the end. Pr
 
 ---
 
-### <b>Be sure to autoclave all buffers!</b>
+### <b>Autoclave all buffers!</b>
 
-<br>
-
----
-
-Functions of reagents in buffers:
-
-:small_blue_diamond: CTAB (Cetyl Triethyl Ammonium Bromide): *Cationic detergent, removes polysaccharides (cellulose) and secondary metabolites, breaks cell membrane*
-
-:small_blue_diamond: 1 mM Tris HCl :- *Maintains pH*
-
-:small_blue_diamond: 0.5 M EDTA (EthyleneDiamineTetraacetic Acid): *Chelating agent. Binds metal ions like Mg<sup>++</sup> that can inactivate enzymes (like nucleases: DNase, RNase)*
-
-:small_blue_diamond: 5M NaCl: *Helps remove protein bound to the DNA. Na+ binds with negative phosphate of DNA and precipitate*.<br>
->> Heikrujam et al. 2020: If cells are in hypotonic solution, cells may burst… If in hypertonic solution, water oozes out from the cell, and cells shrink and crumple. 0.5 M provides ionic strength needed for CTAB to precipitate polysaccharides. In protocols developed for getting rid of polysaccharides, higher concentration has been recommended.
-
-:small_blue_diamond: PVP (PolyVinylPyrrolidone): *Absorbs polyphenolic contamination by binding through hydrogen bond.*
-
-:small_blue_diamond: β-mercaptoethanol (2-mercaptoethanol): *reducing agent, removes tannins and polyphenols*
-
-
----
 ---
 
 <br>
 
 ## Extraction begins:
 
-***Prep*:** After pre-wash, the regular extraction procedure continues immediately. Therefore, before starting the pre-wash, the regular extraction buffer needs to be prepared, autoclaved (together with wash buffer as mentioned above) and during the pre-wash period, the extraction buffer needs to be heated in an incubator.
-
-*Preheat the heat thermos-mixer to 65°C*
-
+***Prep*:** After pre-wash, the regular extraction procedure continues immediately. CTAB buffer needs to be at 65°C temperature. Ammonium acetate, Isopropanol, 70% and 99% Ethanol all need to be cold (4°C). Therefore, <br>
+> *Preheat the heat thermos-mixer to 65°C, and incubate the CTAB buffer.* <br>
+> *Put Ammonium acetate, Isopropanol, 70% and 99% Ethanol in refrigerator.*
 
 ---
 
@@ -275,7 +275,7 @@ Functions of reagents in buffers:
 2.	Stuff bead mill tubes with foliage sample as needed.<br>
 *(~30 mg for pine, spruce species), being careful to not cross contaminate samples. If using hands to stuff tubes, change gloves for each sample. (If tissue is tough, grind with a mortar and pestle before transfer)*
 3.	Add 1 mL Washing buffer, then 0.01 g PVP, and 4.5 µL β-mercaptoethanol.
-*Strategy for this can be like: Adding **0.01 x (11N/10)** g of **PVP** (eg. 0.264 g for 24 rxn), then **4.5 x (11N/10)** µL (eg. 118.8 µL for 24 rxn) of **β-ME** (in fumehood) to the measured washing buffer. Then add 1004.5 µL of the mix to each bead mill tube*.
+*Strategy for this can be like: Adding **0.01 x (11N/10)** g of **PVP** (eg. 0.264 g for 24 rxn), then **4.5 x (11N/10)** µL (eg. 118.8 µL for 24 rxn) of **β-ME** (in fumehood) to the measured washing buffer. Then add **1004.5 µL** of the mix to each bead mill tube*. (R.B. observation: Bead mill doesn't grind the leaf needles (*Picea glauca*) well. Using additional bead increases the possibility of breaking the tube. What worked better is adding **500 µL** of the mix to each bead mill tube, grinding in the mill (step 5 below) and add the rest of the mix (**504.5 µL**) to each tube, and vortexing before centrifuging (step 6-7).) 
 >> *Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
 4. Insert bead mill tubes into bead mill, making sure that the tubes are in a balanced arrangement.
 5. Run bead mill for 2 minutes at 3.55 m/s.
@@ -291,52 +291,52 @@ Functions of reagents in buffers:
 ### CTAB Protocol
 
 1.  Measure out the autoclaved **CTAB buffer** (0.5 mL/rxn plus 10% overage) *i.e. 11N/20 mL. (eg. **13.2 mL for 24 samples**)*
-2.	Add 0.02g PVP and 2.5 µL β-mercaptoethanol for each reaction.<br> *To the measured 11N/20 mL CTAB buffer, add **0.02 x 11N/10** g (eg. 0.528 g for 24 samples) **PVP**, then **2.5 x 11N/10** µL (eg. 66 µL for 24 samples) **β-ME**. Then, add 502.5 µL(500 + 2.5) of the CTAB buffer, PVP and β-ME mix to each tube.*
-3.	Mix vigorously (use pipette tip to guarantee complete mixing).
-4.	Incubate samples at 65°C using the Eppendorf thermos mixer for 3 hours.
-5.	Add 500 µL of 24:1 Chloroform: Isoamyl Alcohol and mix well by vortexing (use filter tips).
-6.	Centrifuge for 5-10 min at maximum speed<br>
-→	Following centrifugation, you should have 3 layers: **aqueous phase** (top), **debris and proteins** (middle), and **chloroform** (bottom). (*Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in aqueous phase*. <br>
+2.	Add 0.02g PVP and 2.5 µL β-mercaptoethanol for each reaction.<br> *To the measured 11N/20 mL CTAB buffer, add **0.02 x 11N/10** g (eg. 0.528 g for 24 samples) **PVP**, then **2.5 x 11N/10** µL (eg. 66 µL for 24 samples) **β-ME**. Then, add **502.5 µL** (500 + 2.5) of the mix (CTAB buffer + PVP + β-ME mix) to each tube.*
+3.	Mix vigorously (vortex for 10 seconds).
+4.	**Incubate** samples at 65°C using the Eppendorf thermos mixer for **3 hours**.
+5.	Using **filter tip**, add **500 µL** of 24:1 **Chloroform: Isoamyl Alcohol** and mix well by vortexing.
+6.	**Centrifuge for 5-10 min** at maximum speed<br>
+→	Following centrifugation, you should have 3 layers: <ins>**aqueous phase** (top)<ins>, **debris and proteins** (middle), and **chloroform** (bottom). (*Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in aqueous phase*. <br>
 →	Go onto next step quickly so the phases do not remix.
 
-7.	Pipette off aqueous phase taking care not to suck up any of the middle proteins debris and bottom chloroform phases. Pipetting slowly helps with this.
-8.	Place the aqueous phase into a new labeled Eppendorf tube.
-9.	Repeat steps 5-8.
-10.	Pipette off aqueous phase (~300 µL) taking care not to suck up the protein or chloroform phase.s<br>
-→	Pay particular attention to the slight protein layer at this point. Pipette less aqueous phase in order to avoid the other phases will improve quality of DNA.
-11.	Place the aqueous phase into a new labeled Eppendorf tube.
-12.	Add 0.08 volumes (~24 µL) of cold 7.5 M ammonium acetate.
-13.	Add 0.54 volume (~162 µL) of cold isopropanol (2-propanal) (isopropanol precipitates DNA)
-14.	Mix well and Incubate in -20°C freezer for 1 hour (Longer times will yield more DNA, but also more contaminants).
-15.	Centrifuge for 3 min at maximum speed.
-16.	Pour or pipette off the liquid. Do not lose the DNA pellet.
-17.	Add 700 µL of cold 70% Ethanol, and mix well.
-18.	Centrifuge for 1 min at maximum speed.
-19.	Pour or pipette off the liquid, Do not lose the DNA pellet.
-20.	Add 700 uL of cold 99% Ethanol and mix well.
-21.	Centrifuge for 1 min at maximum speed.
-22.	Pour or pipette off the liquid, do not lose the DNA pellet.
-23.	Dry the pellet for 30 min in the SpeedVac<br>
+7.	Pipette off aqueous phase (don't suck up any of the middle proteins debris and bottom chloroform phases. Pipetting slowly helps with this.
+8.	Place the aqueous phase into a **new labeled Eppendorf tube**.
+9.	Repeat 5-6: add **Chloroform: Isoamyl Alcohol** to the aqueous phase in the Eppendorf tube, vortex the tube, and centrifuge for 5-10 min at maximum speed. 
+10.	Pipette off **300 µL aqueous phase** (Do not suck up the protein or chloroform phase.s<br>
+→	Pay particular attention to the slight protein layer at this point. Your should have more than 300 µLaqueous phase. Pipetting less volume of aqueous phase helps avoiding other phases, which will improve quality of DNA.
+11.	Place the **300 µL aqueous phase** into a **new labeled Eppendorf tube**.
+12.	Add 0.08 volumes (300 × 0.08 = ~24 µL) of cold 7.5 M **ammonium acetate**.
+13.	Add 0.54 volume (300 × 0.54 = ~162 µL) of cold **isopropanol (2-propanal)** (*cold isopropanol precipitates DNA*).
+14.	Mix well and **Incubate in -20°C freezer for 1 hour** (Longer times will yield more DNA, but also more contaminants).
+15.	**Centrifuge** for 3 min at maximum speed.
+16.	Pour off (pipette off) the liquid. Do not lose the DNA pellet.
+17.	Add **700 µL** of cold **70% EtOH**, **mix well**, and	**Centrifuge for 1 min** at maximum speed.
+18.	Pour or pipette off the liquid, Do not lose the DNA pellet.
+19.	Add **700 uL** of cold **99% EtOH**, **mix well**, and **Centrifuge for 1 min** at maximum speed.
+20.	Pour or pipette off the liquid, do not lose the DNA pellet. (*Pipetting off is better option to air-dry the pellet*)
+21.	Dry the pellet for 30 min in the SpeedVac<br>
 >> a.	Turn on the rotor first and wait for the vacuum to start<br>
 >> b.	Set the temperature to 30°C<br>
 >> c.	Turn on the motor second and start suction<br>
 >> d.	Reverse steps to stop<br>
 
-→ *If SpeedVac is not availible, **allow pellets to dry with Eppendorf tube cap open in fume hood for 1-2 hours**.*<br>
+→ If SpeedVac is not availible, **allow pellets to dry (with Eppendorf tube cap open) in fume hood for 1-2 hours**. <br>
 
-24.	Resuspend samples with 100 µL of 1x TE buffer (around 8.0 pH). Allow to resuspend for 1 hr at 55°C or overnight in refrigerator before measuring purity, concentration or running a test gel.
-25.	Clean DNA using an **Ethanol precipitation protocol** (below) if needed.
+22.	**Resuspend** samples with **100 µL of 1x TE buffer** (around 8.0 pH). Allow to resuspend for 1 hr at 55°C or overnight in refrigerator before measuring purity, concentration or running a test gel.
+23.	If DNA is not of good quality, not clear resuspended solution, smearing in gel electrophoresis, etc), Clean DNA using an **Ethanol precipitation protocol** (below) if needed.
 
 
 ---
 
 ### Ethanol Precipitation Protocol
 
-1.	If the volume of the DNA is less than 200 μl, bring the volume up to 200 μl with sterile dH<sub>2</sub>O.
-2.	Add 1/10<sup>th</sup> volume of 3M sodium acetate to the DNA solution and mix. (i.e. add 20 μL to the 200μL solution)
-3.	Add 2 volumes (i.e. 400 μL) of -20°C 100% ethanol (EtOH) and vortex for 10 seconds. Put the tube in a -20°C freezer overnight or a -70°C freezer for 20 minutes.
-4.	Spin in a microfuge for 5 minutes. Invert the tube with the lid closed and look for the pellet. While upside down, pour out the EtOH but save the pellet!!
-5.	Wash the pellet with 500 μl of 4°C 70% EtOH, gently roll the tube, then dump the EtOH, and SpeedVac the pellet. SAVE THE PELLET!
-6.	You can SpeedVac the DNA to dryness if any liquid remains.
-7.	Resuspend DNA in appropriate volume of TE or water. (100 μL as before)
+1.	The volume of the DNA is less than **200 μl** (resuspended in 100 µl TE buffer), bring the volume up to 200 μl with sterile dH<sub>2</sub>O.
+2.	Add **1/10<sup>th</sup>** volume of **3M sodium acetate** to the DNA solution and mix. (i.e. add **20 μL** to the **200μL** solution)
+3.	Add **2** volumes (i.e. **400 μL**) of **absolute EtOH at -20°C** and vortex for **10** seconds.
+4.	Put the tube in a **-20°C freezer overnight** or a **-70°C freezer for 20 minutes**.
+5.	**Centrifuge** for the tube for **5 minutes** at maximum speed.
+6.	Invert the tube with the lid closed and look for the pellet. While upside down, **pour out the liquid** but **save the pellet**.
+7.	**Wash the pellet** with **500 μl of 4°C 70% EtOH**, gently roll the tube, then dump the liquid.
+8.	SpeedVac or air-dry **the pellet**.
+9.	**Resuspend DNA** in appropriate volume of TE or nuclease free water. (100 μL as before)
 
