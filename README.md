@@ -100,8 +100,10 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 
 :small_blue_diamond: **70% and 99% Ethanol (EtOH)** (ice cold): *washes DNA pellet.*
 
+---
+---
 
-Prepare **Washing Buffer** (Tris Hcl, EDTA, NACL, H<sub>2</sub>O) and **CTAB Buffer** (Tris Hcl, EDTA, NACL, H<sub>2</sub>O, CTAB), and 1x **TE Buffer** (to resuspend DNA at the end). 
+Prepare **Washing Buffer** (Tris Hcl, EDTA, NACL, H<sub>2</sub>O) and **CTAB Buffer** (Tris Hcl, EDTA, NACL, H<sub>2</sub>O, CTAB), and 1x **TE Buffer** (to resuspend DNA at the end). <br><br>
 
 #### <ins>Washing Buffer:<ins>
 
@@ -234,8 +236,6 @@ We need **0.5 mL CTAB buffer per sample**. Prepare **X mL** (more than (N/2) mL)
 
 ---
 
-<br>
-
 
 #### <ins>TE Buffer:<ins>
 
@@ -261,8 +261,8 @@ We need **100 µL of 1x TE buffer per sample** (rxn) to resuspend DNA at the end
 ## Extraction begins:
 
 ***Prep*:** After pre-wash, the regular extraction procedure continues immediately. CTAB buffer needs to be at 65°C temperature. Ammonium acetate, Isopropanol, 70% and 99% Ethanol all need to be cold (4°C). Therefore, <br>
-> *Preheat the heat thermos-mixer to 65°C, and incubate the CTAB buffer.* <br>
-> *Put Ammonium acetate, Isopropanol, 70% and 99% Ethanol in refrigerator.*
+- *Preheat the heat thermos-mixer to 65°C, and incubate the CTAB buffer.* <br>
+- *Put Ammonium acetate, Isopropanol, 70% and 99% Ethanol in refrigerator.*
 
 ---
 
@@ -275,8 +275,13 @@ We need **100 µL of 1x TE buffer per sample** (rxn) to resuspend DNA at the end
 2.	Stuff bead mill tubes with foliage sample as needed.<br>
 *(~30 mg for pine, spruce species), being careful to not cross contaminate samples. If using hands to stuff tubes, change gloves for each sample. (If tissue is tough, grind with a mortar and pestle before transfer)*
 3.	Add 1 mL Washing buffer, then 0.01 g PVP, and 4.5 µL β-mercaptoethanol.
-*Strategy for this can be like: Adding **0.01 x (11N/10)** g of **PVP** (eg. 0.264 g for 24 rxn), then **4.5 x (11N/10)** µL (eg. 118.8 µL for 24 rxn) of **β-ME** (in fumehood) to the measured washing buffer. Then add **1004.5 µL** of the mix to each bead mill tube*. (R.B. observation: Bead mill doesn't grind the leaf needles (*Picea glauca*) well. Using additional bead increases the possibility of breaking the tube. What worked better is adding **500 µL** of the mix to each bead mill tube, grinding in the mill (step 5 below) and add the rest of the mix (**504.5 µL**) to each tube, and vortexing before centrifuging (step 6-7).) 
->> *Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
+*Strategy for this can be like: Adding **0.01 x (11N/10)** g of **PVP** (eg. 0.264 g for 24 rxn), then **4.5 x (11N/10)** µL (eg. 118.8 µL for 24 rxn) of **β-ME** (in fumehood) to the measured washing buffer. Then add **1004.5 µL** of the mix to each bead mill tube*.  
+>> ⚠️ **R.B :point_right:**  
+>> • Bead mill doesn't grind the leaf needles (*Picea glauca*) well.  
+>> • Using an extra bead risks breaking the tube.  
+>>
+>> **Better approach:** Add **500 µL** of the mix, bead mill **grind** (steps 4-5), add remaining **504.5 µL**, vortex, and proceed to steps 6–9
+> *Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
 4. Insert bead mill tubes into bead mill, making sure that the tubes are in a balanced arrangement.
 5. Run bead mill for 2 minutes at 3.55 m/s.
 6. Transfer bead mill tubes to centrifuge, making sure that the tubes are in a balanced arrangement.
@@ -286,7 +291,7 @@ We need **100 µL of 1x TE buffer per sample** (rxn) to resuspend DNA at the end
 
 
 ---
-
+---
 
 ### CTAB Protocol
 
@@ -296,14 +301,14 @@ We need **100 µL of 1x TE buffer per sample** (rxn) to resuspend DNA at the end
 4.	**Incubate** samples at 65°C using the Eppendorf thermos mixer for **3 hours**.
 5.	Using **filter tip**, add **500 µL** of 24:1 **Chloroform: Isoamyl Alcohol** and mix well by vortexing.
 6.	**Centrifuge for 5-10 min** at maximum speed<br>
-→	Following centrifugation, you should have 3 layers: <ins>**aqueous phase** (top)<ins>, **debris and proteins** (middle), and **chloroform** (bottom). (*Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in aqueous phase*. <br>
+→	Following centrifugation, you should have 3 layers: **aqueous phase** (top), **debris and proteins** (middle), and **chloroform** (bottom). (*Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in aqueous phase*. <br>
 →	Go onto next step quickly so the phases do not remix.
 
-7.	Pipette off aqueous phase (don't suck up any of the middle proteins debris and bottom chloroform phases. Pipetting slowly helps with this.
+7.	Pipette slowly off aqueous phase (don't suck up any of the middle proteins debris and bottom chloroform phases.
 8.	Place the aqueous phase into a **new labeled Eppendorf tube**.
-9.	Repeat 5-6: add **Chloroform: Isoamyl Alcohol** to the aqueous phase in the Eppendorf tube, vortex the tube, and centrifuge for 5-10 min at maximum speed. 
-10.	Pipette off **300 µL aqueous phase** (Do not suck up the protein or chloroform phase.s<br>
-→	Pay particular attention to the slight protein layer at this point. Your should have more than 300 µLaqueous phase. Pipetting less volume of aqueous phase helps avoiding other phases, which will improve quality of DNA.
+9.	Repeat 5-6: **add Chloroform: Isoamyl Alcohol** to the aqueous phase in the Eppendorf tube, **vortex** the tube, and **centrifuge** for 5-10 min at maximum speed. 
+10.	Pipette off **300 µL aqueous phase** (Do not suck up the protein or chloroform phase.<br>
+→	Pay particular attention to the slight protein layer at this point. Your should have more than 300 µL aqueous phase. Pipetting less volume of aqueous phase helps avoiding other phases, which will improve quality of DNA.
 11.	Place the **300 µL aqueous phase** into a **new labeled Eppendorf tube**.
 12.	Add 0.08 volumes (300 × 0.08 = ~24 µL) of cold 7.5 M **ammonium acetate**.
 13.	Add 0.54 volume (300 × 0.54 = ~162 µL) of cold **isopropanol (2-propanal)** (*cold isopropanol precipitates DNA*).
