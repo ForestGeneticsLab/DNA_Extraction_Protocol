@@ -280,7 +280,7 @@ We need **100 µL of 1x TE buffer per sample** (rxn) to resuspend DNA at the end
 >> • Bead mill doesn't grind the leaf needles (*Picea glauca*) well.  
 >> • Using an extra bead risks breaking the tube.  
 >>
->> **Better approach:** Add **500 µL** of the mix, bead mill **grind** (steps 4-5), add remaining **504.5 µL**, vortex, and proceed to steps 6–9 <br>
+>> **Better approach:** Add **500 µL** of the mix  →	 bead mill **grind** (steps 4-5)  →	 add remaining **504.5 µL**  →	 **vortex** →	proceed to steps 6–9 <br>
 
 - *Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
 4. Insert bead mill tubes into bead mill, making sure that the tubes are in a balanced arrangement.
@@ -302,14 +302,14 @@ We need **100 µL of 1x TE buffer per sample** (rxn) to resuspend DNA at the end
 4.	**Incubate** samples at 65°C using the Eppendorf thermos mixer for **3 hours**.
 5.	Using **filter tip**, add **500 µL** of 24:1 **Chloroform: Isoamyl Alcohol** and mix well by vortexing.
 6.	**Centrifuge for 5-10 min** at maximum speed<br>
-→	Following centrifugation, you should have 3 layers: **aqueous phase** (top), **debris and proteins** (middle), and **chloroform** (bottom). (*Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in aqueous phase*. <br>
-→	Go onto next step quickly so the phases do not remix.
+- →	Following centrifugation, you should have 3 layers: **aqueous phase** (top), **debris and proteins** (middle), and **chloroform** (bottom). (*Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in aqueous phase*. <br>
+- →	Go onto next step quickly so the phases do not remix.
 
 7.	Pipette slowly off aqueous phase (don't suck up any of the middle proteins debris and bottom chloroform phases.
 8.	Place the aqueous phase into a **new labeled Eppendorf tube**.
 9.	Repeat 5-6: **add Chloroform: Isoamyl Alcohol** to the aqueous phase in the Eppendorf tube, **vortex** the tube, and **centrifuge** for 5-10 min at maximum speed. 
 10.	Pipette off **300 µL aqueous phase** (Do not suck up the protein or chloroform phase.<br>
-→	Pay particular attention to the slight protein layer at this point. Your should have more than 300 µL aqueous phase. Pipetting less volume of aqueous phase helps avoiding other phases, which will improve quality of DNA.
+- Pay particular attention to the slight protein layer at this point. Your should have more than 300 µL aqueous phase. Pipetting less volume of aqueous phase helps avoiding other phases, which will improve quality of DNA.
 11.	Place the **300 µL aqueous phase** into a **new labeled Eppendorf tube**.
 12.	Add 0.08 volumes (300 × 0.08 = ~24 µL) of cold 7.5 M **ammonium acetate**.
 13.	Add 0.54 volume (300 × 0.54 = ~162 µL) of cold **isopropanol (2-propanal)** (*cold isopropanol precipitates DNA*).
