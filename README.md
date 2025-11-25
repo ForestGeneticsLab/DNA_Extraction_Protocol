@@ -276,11 +276,11 @@ We need **100 µL of 1x TE buffer per sample** (rxn) to resuspend DNA at the end
 *(~30 mg for pine, spruce species), being careful to not cross contaminate samples. If using hands to stuff tubes, change gloves for each sample. (If tissue is tough, grind with a mortar and pestle before transfer)*
 3.	Add 1 mL Washing buffer, then 0.01 g PVP, and 4.5 µL β-mercaptoethanol.
 *Strategy for this can be like: Adding **0.01 x (11N/10)** g of **PVP** (eg. 0.264 g for 24 rxn), then **4.5 x (11N/10)** µL (eg. 118.8 µL for 24 rxn) of **β-ME** (in fumehood) to the measured washing buffer. Then add **1004.5 µL** of the mix to each bead mill tube*.  
->> ⚠️ **R.B :point_right:**  
->> • Bead mill doesn't grind the leaf needles (*Picea glauca*) well.  
->> • Using an extra bead risks breaking the tube.  
->>
->> **Better approach:** Add **500 µL** of the mix  →	 bead mill **grind** (steps 4-5)  →	 add remaining **504.5 µL**  →	 **vortex** →	proceed to steps 6–9 <br>
+    ⚠️ **R.B :point_right:**  
+    • Bead mill doesn't grind the leaf needles (*Picea glauca*) well.  
+    • Using an extra bead risks breaking the tube.  
+    
+    **Better approach:** Add **500 µL** of the mix  →	 bead mill **grind** (steps 4-5)  →	 add remaining **504.5 µL**  →	 **vortex** →	proceed to steps 6–9. <br>
 
 - *Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
 4. Insert bead mill tubes into bead mill, making sure that the tubes are in a balanced arrangement.
@@ -302,8 +302,8 @@ We need **100 µL of 1x TE buffer per sample** (rxn) to resuspend DNA at the end
 4.	**Incubate** samples at 65°C using the Eppendorf thermos mixer for **3 hours**.
 5.	Using **filter tip**, add **500 µL** of 24:1 **Chloroform: Isoamyl Alcohol** and mix well by vortexing.
 6.	**Centrifuge for 5-10 min** at maximum speed<br>
-- →	Following centrifugation, you should have 3 layers: **aqueous phase** (top), **debris and proteins** (middle), and **chloroform** (bottom). (*Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in aqueous phase*. <br>
-- →	Go onto next step quickly so the phases do not remix.
+-	Following centrifugation, you should have 3 layers: **aqueous phase** (top), **debris and proteins** (middle), and **chloroform** (bottom). (*Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in aqueous phase*. <br>
+-	Go onto next step quickly so the phases do not remix.
 
 7.	Pipette slowly off aqueous phase (don't suck up any of the middle proteins debris and bottom chloroform phases.
 8.	Place the aqueous phase into a **new labeled Eppendorf tube**.
@@ -326,7 +326,7 @@ We need **100 µL of 1x TE buffer per sample** (rxn) to resuspend DNA at the end
 >> c.	Turn on the motor second and start suction<br>
 >> d.	Reverse steps to stop<br>
 
-→ If SpeedVac is not availible, **allow pellets to dry (with Eppendorf tube cap open) in fume hood for 1-2 hours**. <br>
+- If SpeedVac is not availible, **allow pellets to dry (with Eppendorf tube cap open) in fume hood for 1-2 hours**. <br>
 
 22.	**Resuspend** samples with **100 µL of 1x TE buffer** (around 8.0 pH). Allow to resuspend for 1 hr at 55°C or overnight in refrigerator before measuring purity, concentration or running a test gel.
 23.	If DNA is not of good quality, not clear resuspended solution, smearing in gel electrophoresis, etc), Clean DNA using an **Ethanol precipitation protocol** (below) if needed.
