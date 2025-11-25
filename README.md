@@ -277,10 +277,10 @@ We need **100 µL of 1x TE buffer per sample** (rxn) to resuspend DNA at the end
 3.	Add 1 mL Washing buffer, then 0.01 g PVP, and 4.5 µL β-mercaptoethanol.
 *Strategy for this can be like: Adding **0.01 x (11N/10)** g of **PVP** (eg. 0.264 g for 24 rxn), then **4.5 x (11N/10)** µL (eg. 118.8 µL for 24 rxn) of **β-ME** (in fumehood) to the measured washing buffer. Then add **1004.5 µL** of the mix to each bead mill tube*.  
     ⚠️ **R.B :point_right:**  
-        • Bead mill doesn't grind the leaf needles (*Picea glauca*) well.  
-        • Using an extra bead risks breaking the tube.  
+    • Bead mill doesn't grind the leaf needles (*Picea glauca*) well.  
+    • Using an extra bead risks breaking the tube.  
     
-        **Better approach:** Add **500 µL** of the mix  →	 bead mill **grind** (steps 4-5)  →	 add remaining **504.5 µL**  →	 **vortex** →	proceed to steps 6–9. <br>
+    **A Better approach:** Add **500 µL** of the mix  →	 bead mill **grind** (steps 4-5)  →	 add remaining **504.5 µL**  →	 **vortex** →	proceed to steps 6–9. <br>
 
 - *Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
 4. Insert bead mill tubes into bead mill, making sure that the tubes are in a balanced arrangement.
