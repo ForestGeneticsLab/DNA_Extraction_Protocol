@@ -38,32 +38,32 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 
 <br>
 
-1. Add ~30 mg of leaf tissue to a bead tube  (If tissue is tough, grind with a mortar and pestle before transfer). 
+1. Add ~30 mg of leaf tissue to a bead tube  (If tissue is tough, grind with a mortar and pestle before transfer). (*Cut the tissue into small peices before loading into the bead tube. For tough tissues, pregrinding with a mortar and pestle helps*) 
 2. Add **450 µl Solution CD1** and **50 µl Solution PS**.  
-   - For samples rich in polyphenolic compounds, increase PS up to **100 µl** and reduce CD1 accordingly (total solution volume = 500 µl).  
+   - *For samples rich in polyphenolic compounds, increase PS up to **100 µl** and reduce CD1 accordingly (total solution volume = 500 µl)*.  
 3. Incubate at **65 °C for 10 minutes**, then briefly vortex (5 seconds).  
 4. Homogenize tissue in the bead mill at **speed 3.1 m/s for 2 minutes**.  
-5. Centrifuge at **12,000 × g for 2 minutes**.  
-6. Transfer the supernatant to a 1.5 ml collection tube (Some plant particles may remain in the supernatant; this is acceptable)  
-7. Add **200 µl Solution CD2** (stored at 4 °C) and vortex for 5 seconds (For problematic samples, increase CD2 up to **250 µl**)
-8. Centrifuge at **12,000 × g for 1 minute**.
-9. Carefully transfer the supernatant (≈400–500 µl) to a new 1.5 ml tube, avoiding the pellet.  
+5. Centrifuge at **12,000 × *g* for 2 minutes**.  
+6. Transfer the supernatant (*Expect 350–450 µl*) to a 1.5 ml collection tube (*Some plant particles may remain in the supernatant; this is acceptable*)  
+7. Add **200 µl Solution CD2** (stored at 4 °C) and vortex for 5 seconds (*For problematic samples, increase CD2 up to **250 µl***)
+8. Centrifuge at **12,000 × *g* for 1 minute**.
+9. Carefully transfer the supernatant (*Expect 400–500 µl*) to a new 1.5 ml tube, avoiding the pellet.  
 10. Add **500 µl Buffer APP** and vortex for 5 seconds.  
-11. Load **600 µl lysate** onto an MB Spin Column and centrifuge at **12,000 × g for 1 minute**.  
-12. Discard the flow-through, then load the remaining lysate onto the same column.  Centrifuge again at **12,000 × g for 1 minute**.  
-13. Place the MB Spin Column into a **2 ml collection tube** (Avoid splashing flow-through onto the column). 
-14. Add **650 µl Buffer AW1** to the MB Spin Column and centrifuge at **12,000 × g for 1 minute**.
-15. Discard flow-through and rplace the MB Spin Column back into the same 2 ml collection tube.  
-16. Add **650 µl Buffer AW2** to the column. Let sit for **5 minutes**, then centrifuge at **12,000 × g for 1 minute**.
+11. Load **600 µl lysate** onto an **MB Spin Column** and centrifuge at **12,000 × *g* for 1 minute**.  
+12. Discard the flow-through, then **load the remaining lysate** onto the same column.  Centrifuge again at **12,000 × *g* for 1 minute**.  
+13. Place the MB Spin Column into a **2 ml collection tube** (*Avoid splashing flow-through onto the column*). 
+14. Add **650 µl Buffer AW1** to the MB Spin Column and centrifuge at **12,000 × *g* for 1 minute**.
+15. Discard flow-through and place the MB Spin Column back into the same 2 ml collection tube.  
+16. Add **650 µl Buffer AW2** to the column. Let sit for **5 minutes**, then centrifuge at **12,000 × *g* for 1 minute**.
 17. Discard flow-through and place the MB Spin Column back into the same 2 ml collection tube.  
-18. Repeat step 16-17: add another **650 µl Buffer AW2**, let sit for 5 minutes, then centrifuge at **12,000 × g for 1 minute**, discard flow-through and place the column back into the same 2 ml collection tube.  
-19. Now, centrifuge the empty column at **13,300 × g for 2 minutes** to dry the white filter membrane in the MB Spin Column.  
-20. Place the MB Spin Column into a new clean 1.5 ml elution (collection) tube (Wipe the column exterior before placing into the tube).  
-21. Add **50 µl Buffer EB** directly to the center of the white filter membrane.  
-22. Centrifuge at **12,000 × g for 1 minute** to elute DNA.  
-23. Discard the spin column. The eluted DNA is now in the 1.5 ml collection tube.  
-24. Measure DNA concentration and purity (e.g., Nanodrop spectrophotometer: better for absorption or Qubit fluorometer: more precise for concentration).  
-25. Store DNA at **–20 °C** for long-term use (4 °C is OK for short-term use).
+18. Repeat step 16-17: add another **650 µl Buffer AW2**, let sit for 5 minutes, then centrifuge at **12,000 × *g* for 1 minute**, discard flow-through and place the column back into the same 2 ml collection tube.  
+19. Now, **centrifuge** the MB Spin column at **13,300 × *g* for 2 minutes** to dry the white filter membrane in the MB Spin Column.  
+20. Place the MB Spin Column into a new clean 1.5 ml elution (collection) tube.  
+21. Add **50 µl Buffer EB** (10mM Tris) directly to the center of the white filter membrane.  
+22. Centrifuge at **12,000 × *g* for 1 minute** to elute DNA.  
+23. Discard the MB Spin column. The eluted DNA is now in the 1.5 ml collection tube.  
+24. Measure DNA concentration and purity (e.g., Nanodrop spectrophotometer (*better for absorption*) or Qubit fluorometer (*more precise for concentration*).  
+25. Store DNA at **-80 to –20 °C** for long-term use (4 °C is OK for short-term use).
 
 ---
 ---
