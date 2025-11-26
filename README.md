@@ -38,8 +38,8 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 
 <br>
 
-1. Add ~30 mg of leaf tissue to a bead tube. *Cut the tissue into small peices before loading into the bead tube. If tissue is tough, grind with a mortar and pestle before transfer*. 
-2. Add **450 µl Solution CD1** and **50 µl Solution PS**.  *For samples rich in polyphenolic compounds, increase PS up to **100 µl** and reduce CD1 accordingly (total solution volume = 500 µl)*.  
+1. Add ~30 mg of leaf tissue to a bead tube. (*Cut the tissue into small peices before loading into the bead tube. If tissue is tough, grind with a mortar and pestle before transfer*). 
+2. Add **450 µl Solution CD1** and **50 µl Solution PS**.  (*For samples rich in polyphenolic compounds, increase PS up to **100 µl** and reduce CD1 accordingly (total solution volume = 500 µl)*).  
 3. Incubate at **65 °C for 10 minutes**, then briefly vortex (5 seconds).  
 4. Homogenize tissue in the bead mill at **speed 3.1 m/s for 2 minutes**.  
 5. Centrifuge at **12,000 × *g* for 2 minutes**.  
