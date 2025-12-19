@@ -299,10 +299,10 @@ We need **100 µL of 1x TE buffer per sample** (rxn) to resuspend DNA at the end
 *Strategy for this can be like: Adding **0.01 x (11N/10)** g of **PVP** (eg. 0.264 g for 24 rxn), then **4.5 x (11N/10)** µL (eg. 118.8 µL for 24 rxn) of **β-ME** (in fumehood) to the measured 11N/10 mL washing buffer stock. Then add **1004.5 µL** of the mix to each bead mill tube*.  
     ⚠️ **R.B :point_right:**  
     • One 5.6 mm Bead doesn't grind conifer leaf needles (*White spruce, Red pine, Jack pine*) well when all washing buffer mix is in the tube.  
-    • Using an extra bead risks breaking the tube.
-    • Zirconium beads (1.5 mm) worsens the tissue disruption condition.
-  	• Stainless steel beads (2 mm) doesn't grind well (5 beads or 10 beads, doesn't improve).
-  	• In presence of one 5.6 mm bead, five 2 mm steel beads disrupt tissue even when all the washing buffer is there in the tube.
+    • Using an extra bead risks breaking the tube.<br>
+    • Zirconium beads (1.5 mm) worsens the tissue disruption condition.<br>
+  	• Stainless steel beads (2 mm) doesn't grind well (5 beads or 10 beads, doesn't improve).<br>
+  	• In presence of one 5.6 mm bead, five 2 mm steel beads disrupt tissue even when all the washing buffer is there in the tube.<br>
     :point_right: **A Better approach:** Add **500 µL** of the washing buffer  →	 bead mill **grind** (steps 4-5)  →	 add remaining **504.5 µL** of the wash buffer  →	 **vortex** →	proceed to steps 6–9. <br>
 
 >>> *Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
