@@ -330,7 +330,7 @@ We need **100 µL** of **1x TE buffer** (around 8.0 pH) per sample (rxn) to resu
 7.	Pipette slowly off aqueous phase (don't suck up any of the middle proteins debris and bottom chloroform phases.
 8.	Place the aqueous phase into a **new labeled Eppendorf tube**.
 9.	Repeat steps 5-6: **Add 500 µL Chloroform: Isoamyl Alcohol** to the aqueous phase in the Eppendorf tube, **vortex** the tube, and **centrifuge for 5-10 minutes** at maximum speed. 
-10.	Pipette off **300 µL aqueous phase** (Do not suck up the protein or chloroform phase. (*Pay particular attention to the slight protein layer at this point. Your should have more than 300 µL aqueous phase. Pipetting less volume of aqueous phase helps avoiding other phases, which will improve quality of DNA.)
+10.	Pipette off **300 µL aqueous phase** (Do not suck up the protein or chloroform phase. (*Pay particular attention to the slight protein layer at this point. Your should have more than 300 µL aqueous phase. Pipetting less volume of aqueous phase helps avoiding other phases, which will improve quality of DNA*.)
 11.	Place the **300 µL aqueous phase** into a **new labeled Eppendorf tube**.
 12.	Add 0.08 volumes (300 × 0.08 = ~**24 µL**) of cold 7.5 M **ammonium acetate** to each Eppendorf tube.
 13.	Add 0.54 volume (300 × 0.54 = ~**162 µL**) of cold **isopropanol (2-propanal)** (*cold isopropanol precipitates DNA*) to each tube.
@@ -341,7 +341,7 @@ We need **100 µL** of **1x TE buffer** (around 8.0 pH) per sample (rxn) to resu
 18.	Pour or pipette off the liquid, Do not lose the DNA pellet.
 19.	Add **700 uL** of cold **99% EtOH**, **mix well**, and **Centrifuge for 1 min** at maximum speed.
 20.	Pour or pipette off the liquid, do not lose the DNA pellet. (*Pipetting off is better option to air-dry the pellet*)
-21. Allow pellets to dry (with Eppendorf tube cap open) in fumehood for 1-2 hours. <br>
+21. Allow pellets to dry (with Eppendorf tube cap open) in fumehood for 1-2 hours.
 >> If SpeedVac is available, dry the pellet for 30 min in the SpeedVac (*a) Turn on the rotor first and wait for the vacuum to start → b) Set the temperature to 30°C → c)	Turn on the motor second and start suction → d) Reverse steps to stop*)
 
 22.	**Resuspend** samples with **100 µL** of **1x TE buffer**. Allow to resuspend for 1 hr at 55°C or overnight in refrigerator before measuring purity, concentration or running a test gel.
