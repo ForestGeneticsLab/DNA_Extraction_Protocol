@@ -319,8 +319,12 @@ We need **100 µL** of **1x TE buffer** (around 8.0 pH) per sample (rxn) to resu
 4.	**Incubate** samples at 65°C in the water baths for **3 hours**.
 5.	Using **filter tip**, add **500 µL** of **24:1 Chloroform: Isoamyl Alcohol** and mix well by vortexing.
 6.	**Centrifuge for 5-10 min** at maximum speed (13,300 rpm). <br>
-...-	Following centrifugation, you should have 3 layers: **aqueous phase** (top), **debris and proteins** (middle), and **chloroform** (bottom). (*Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in the aqueous phase*. <br>
--	Go onto next step quickly so the phases do not remix.
+<div style="margin-left: 20px;">-	Following centrifugation, you should have 3 layers: **aqueous phase** (top), **debris and proteins** (middle), and **chloroform** (bottom). (*Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in the aqueous phase*. </div> <br>
+-	<div style="margin-left: 20px;">Go onto next step quickly so the phases do not remix.</div>
+
+<div style="margin-left: 20px;">
+This text is indented
+</div>
 
 7.	Pipette slowly off aqueous phase (don't suck up any of the middle proteins debris and bottom chloroform phases.
 8.	Place the aqueous phase into a **new labeled Eppendorf tube**.
