@@ -1,4 +1,4 @@
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 # DNA Extraction Guide
 
 
@@ -69,7 +69,7 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 ---
 ---
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 # Modified CTAB DNA Extraction Protocol
 
