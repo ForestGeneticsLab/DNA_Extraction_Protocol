@@ -105,7 +105,7 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 ---
 ---
 
-Prepare **Washing Buffer** (Tris Hcl, EDTA, NACL, H<sub>2</sub>O) and **CTAB Buffer** (Tris Hcl, EDTA, NaCl, H<sub>2</sub>O, CTAB), and 1x **TE Buffer** (to resuspend DNA at the end). <br><br>
+:point_right: Prepare **Washing Buffer** (Tris Hcl, EDTA, NACL, H<sub>2</sub>O) and **CTAB Buffer** (Tris Hcl, EDTA, NaCl, H<sub>2</sub>O, CTAB), and 1x **TE Buffer** (to resuspend DNA at the end). <br><br>
 
 #### <ins>Washing Buffer:<ins>
 
