@@ -26,7 +26,7 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 4. **Elution** – washing and releasing purified DNA into a clean solution for downstream applications. Then concentration of DNA and purity are measured.
 5. **Storage** - Store DNA at **–20 °C** for long-term use or **4 °C** for short-term use.
 
-![DNA Extraction Workflow](DNA_extraction.jpg)
+![DNA Extraction Workflow](DNA_extraction-RBistaaaa.jpg)
 
 ---
 ---
