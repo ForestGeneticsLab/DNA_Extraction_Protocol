@@ -1,4 +1,4 @@
-<br>
+
 # DNA Extraction Guide
 
 
