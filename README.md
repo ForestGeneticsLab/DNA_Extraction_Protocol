@@ -317,21 +317,21 @@ We need **100 µL** of **1x TE buffer** (around 8.0 pH) per sample (rxn) to resu
 
 1.  Measure out the autoclaved **CTAB buffer stock** (0.5 mL/rxn plus 10% overage) *i.e. 11N/20 mL. (eg. **13.2 mL for 24 samples**)*
 2.	We need to add **0.02g PVP** and **2.5 µL β-mercaptoethanol** for each reaction.    
-*To the measured (11N/20 mL) CTAB buffer stock, add **0.02 x 11N/10 g** (eg. 0.528 g for 24 samples) **PVP**. → → → **Incubate** in the water bath until the PVP is fully dissolved. → → → Add **2.5 x 11N/10** µL (eg. 66 µL for 24 samples) **β-ME**. → → → Mix well and add **502.5 µL** (500 + 2.5) of the CTAB buffer to each tube.*
+*To the measured (11N/20 mL) CTAB buffer stock, add **0.02 x 11N/10 g** (eg. 0.528 g for 24 samples) **PVP**. → **Incubate** in the water bath until the PVP is fully dissolved. → Add **2.5 x 11N/10** µL (eg. 66 µL for 24 samples) **β-ME**. → Mix well and add **502.5 µL** (500 + 2.5) of the CTAB buffer to each tube.*
 
 3.	Mix vigorously (vortex the tubes for 10 seconds).
 4.	**Incubate** samples at 65°C in the water baths for **3 hours**.
-5.	Using **filter tip**, add **500 µL** of **24:1 Chloroform: Isoamyl Alcohol** and mix well by vortexing.
+5.	Using **filter tip**, add **500 µL 24:1 Chloroform:Isoamyl Alcohol**. Mix well by vortexing.
 6.	**Centrifuge for 5-10 min** at maximum speed (13,300 rpm). <br>
 - Following centrifugation, you should have 3 layers: **aqueous phase** (top), **debris and proteins** (middle), and **chloroform** (bottom). (*Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in the aqueous phase*. </div> <br>
 - Go onto next step quickly so the phases do not remix.</div>
 
 7.	Pipette slowly off aqueous phase (don't suck up any of the middle proteins debris and bottom chloroform phases.
 8.	Place the aqueous phase into a **new labeled Eppendorf tube**.
-9.	Repeat steps 5-6: **Add 500 µL Chloroform: Isoamyl Alcohol** to the aqueous phase in the Eppendorf tube, **vortex** the tube, and **centrifuge for 5-10 minutes** at maximum speed. 
+9.	Repeat steps 5-6: *Add 500 µL **Chloroform:Isoamyl Alcohol** to the aqueous phase in the tube, **vortex**, and **centrifuge for 5-10 minutes** at maximum speed*. 
 10.	Pipette off **300 µL aqueous phase** (Do not suck up the protein or chloroform phase. (*Pay particular attention to the slight protein layer at this point. Your should have more than 300 µL aqueous phase. Pipetting less volume of aqueous phase helps avoiding other phases, which will improve quality of DNA*.)
 11.	Place the **300 µL aqueous phase** into a **new labeled Eppendorf tube**.
-12.	Add 0.08 volumes (300 × 0.08 = ~**24 µL**) of cold 7.5 M **ammonium acetate** to each Eppendorf tube.
+12.	Add 0.08 volumes (300 × 0.08 = ~**24 µL**) of cold 7.5 M **ammonium acetate** to each tube.
 13.	Add 0.54 volume (300 × 0.54 = ~**162 µL**) of cold **isopropanol (2-propanal)** (*cold isopropanol precipitates DNA*) to each tube.
 14.	Mix well and **incubate in -20°C freezer for 1 hour** (Longer times will yield more DNA, but also more contaminants).
 15.	**Centrifuge** for 3 min at maximum speed.
@@ -356,7 +356,7 @@ We need **100 µL** of **1x TE buffer** (around 8.0 pH) per sample (rxn) to resu
 4.	Put the tube in a **-20°C freezer overnight** or a **-70°C freezer for 20 minutes**.
 5.	**Centrifuge** the tube for **5 minutes** at maximum speed (DNA pellet precipitates on the tube bottom).
 6.	Invert the tube with the lid closed and look for the pellet. While upside down, **pour out the liquid** but **save the pellet**.
-7.	**Wash the pellet** with **500 μl of 4°C 70% EtOH**, gently roll the tube, then dump the liquid.
+7.	**Wash the pellet** with **500 μl** of **70% EtOH** (4°C), gently roll the tube, and dump the liquid.
 8.	SpeedVac or air-dry **the pellet**.
-9.	**Resuspend DNA** in appropriate volume of TE buffer or nuclease free water. (100 μL as before)
+9.	**Resuspend DNA** in appropriate volume (100 μL) of TE buffer/nuclease free water. 
 
