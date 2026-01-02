@@ -294,14 +294,13 @@ We need **100 µL** of **1x TE buffer** (around 8.0 pH) per sample (rxn) to resu
 *(~30 mg for pine, spruce species), being careful to not cross contaminate samples. If using hands to stuff the bead mill tubes (break the long needles!), change gloves for each sample. (If tissue is tough, grind with a mortar and pestle before transfer)*
 3.	Add 1 mL Washing buffer, then 0.01 g PVP, and 4.5 µL β-mercaptoethanol in each tube.<br>
  *Strategy for this can be like: Adding **0.01 x (11N/10)** g of **PVP** (eg. 0.264 g for 24 rxn), then **4.5 x (11N/10)** µL (eg. 118.8 µL for 24 rxn) of **β-ME** (in fumehood) to the measured 11N/10 mL washing buffer stock. Then add **1004.5 µL** of the mix to each bead mill tube*.  
-    ⚠️ **R.B.**  
-    • One ballcone bead (5.6 mm) doesn't grind conifer leaf needles (*White spruce, Red pine, Jack pine*) well when all 1004.5 µL washing buffer is in the tube.<br>
-    • Using an extra ballcone bead risks breaking the tube.<br>
-    • Zirconium beads (1.5 mm) worsens the tissue disruption condition, either alone or in combination with other beads of different size.<br>
-  	• Stainless steel beads (2 mm) doesn't grind well (5 beads or 10 beads, doesn't improve).<br>
-  	• In presence of one 5.6 mm ballcone bead, using five-ten steel beads (2 mm) grinds leaf needles even when all 1004.5 µL washing buffer is there in the tube.<br>
-    :point_right: **Either,** use one ballcone bead plus 5-10 beads (2 mm) while grinding tissues in 1004.5 µl washing buffer.<br>
-    :point_right: **or,** Use only one ballcone bead: Add **500 µL** of the washing buffer  →	 bead mill **grind** (steps 4-5)  → → →	 add remaining **504.5 µL** of the wash buffer  → → →	 **vortex** → → →	proceed to steps 6–9. <br>
+    ⚠️ One ballcone bead (5.6 mm) doesn't grind conifer leaf needles well when all 1004.5 µL washing buffer is in the tube.<br>
+    ⚠️ Using an extra ballcone bead risks breaking the tube.<br>
+    ⚠️ Zirconium beads (1.5 mm) worsens the disruption condition (either alone or in combination with different sized beads).<br>
+  	⚠️ Stainless steel beads (2 mm) don't grind well (5 beads or 10 or more beads, doesn't improve).<br>
+  	⚠️ One 5.6 mm ballcone bead, plus five-ten steel beads (2 mm) grind leaf needles even when all 1004.5 µL washing buffer is there in the tube.<br>
+    :point_right: **Either,** Use one ballcone bead plus 5-10 beads (2 mm) while grinding tissues in 1004.5 µl washing buffer.<br>
+    :point_right: **or,** Use one ballcone bead: Add **500 µL** of the washing buffer  → → →	 bead mill **grind** (steps 4-5)  → → →	 add remaining **504.5 µL** of the wash buffer  → → →	 **vortex** → → →	proceed to steps 6–9. <br>
 >> *Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
 4. Insert bead mill tubes into bead mill, making sure that the tubes are in a balanced arrangement.
 5. Run bead mill for 2 minutes at 3.55 m/s.
