@@ -189,8 +189,7 @@ We need **0.5 mL CTAB buffer per sample**. Prepare **X mL** (more than (N/2) mL)
       <th>1000 mL</th>
       <th>100 mL</th>
       <th>50 mL</th>
-      <th>25 mL</th>  
-      <th>12 mL</th>
+      <th>25 mL</th>
       <th>10 mL</th>  
       <th>5 mL</th>       
     </tr>
@@ -203,7 +202,6 @@ We need **0.5 mL CTAB buffer per sample**. Prepare **X mL** (more than (N/2) mL)
       <td>10 mL</td>
       <td>5 mL</td>
       <td>2.5 mL</td>
-      <td>1.25 mL</td>
       <td>1 mL</td>
       <td>0.5 mL</td>
     </tr>
@@ -214,7 +212,6 @@ We need **0.5 mL CTAB buffer per sample**. Prepare **X mL** (more than (N/2) mL)
       <td>4 mL</td>
       <td>2 mL</td>
       <td>1 mL</td>
-      <td>0.5 mL</td>
       <td>0.4 mL</td>
       <td>0.2 mL</td>
     </tr>
@@ -225,7 +222,6 @@ We need **0.5 mL CTAB buffer per sample**. Prepare **X mL** (more than (N/2) mL)
       <td>28 mL</td>
       <td>14 mL</td>
       <td>7 mL</td>
-      <td>3.5 mL</td>
       <td>2.8 mL</td>
       <td>1.4 mL</td>
     </tr>
@@ -236,7 +232,6 @@ We need **0.5 mL CTAB buffer per sample**. Prepare **X mL** (more than (N/2) mL)
       <td>2 g</td>
       <td>1 g</td>
       <td>0.5 g</td>
-      <td>0.25 g</td>
       <td>0.2 g</td>
       <td>0.1 g</td>
     </tr>
@@ -247,7 +242,6 @@ We need **0.5 mL CTAB buffer per sample**. Prepare **X mL** (more than (N/2) mL)
       <td>58 mL</td>
       <td>29 mL</td>
       <td>14.5 mL</td>
-      <td>7.25 mL</td>
       <td>5.8 mL</td>
       <td>2.9 mL</td>
     </tr>
@@ -282,8 +276,8 @@ We need **100 µL** of **1x TE buffer** (around 8.0 pH) per sample (rxn) to resu
 ## Extraction begins:
 
 ***Prep*:** After pre-wash, the regular extraction procedure continues immediately. **CTAB buffer needs to be at 65°C** temperature. **Ammonium acetate, Isopropanol, 70% and 99% Ethanol all need to be cold (4°C)**. Therefore, <br>
-- *Preheat the heat thermos-mixer to 65°C, and incubate the CTAB buffer.* <br>
-- *Put Ammonium acetate, Isopropanol, 70% and 99% Ethanol in refrigerator (-20°C).*
+:point_right: *Preheat the heat thermos-mixer to 65°C, and incubate the CTAB buffer.* <br>
+:point_right: *Put Ammonium acetate, Isopropanol, 70% and 99% Ethanol in refrigerator (-20°C).*
 
 ---
 
@@ -294,16 +288,17 @@ We need **100 µL** of **1x TE buffer** (around 8.0 pH) per sample (rxn) to resu
 1.  Measure out washing buffer stock (1 mL per reaction) plus about 10% overage.
 <br> *i.e. (N + 0.1xN= 11N/10) mL. eg. for **24 samples**, 24 + 2.4 = **26.4 mL**)*
 2.	Stuff bead mill tubes with foliage sample as needed.
-*(~30 mg for pine, spruce species), being careful to not cross contaminate samples. If using hands to stuff tubes (break the long needles!), change gloves for each sample. (If tissue is tough, grind with a mortar and pestle before transfer)*
-3.	Add 1 mL Washing buffer, then 0.01 g PVP, and 4.5 µL β-mercaptoethanol in each tube.
-*Strategy for this can be like: Adding **0.01 x (11N/10)** g of **PVP** (eg. 0.264 g for 24 rxn), then **4.5 x (11N/10)** µL (eg. 118.8 µL for 24 rxn) of **β-ME** (in fumehood) to the measured 11N/10 mL washing buffer stock. Then add **1004.5 µL** of the mix to each bead mill tube*.  
-    ⚠️ **R.B :point_right:**  
-    • One 5.6 mm Bead doesn't grind conifer leaf needles (*White spruce, Red pine, Jack pine*) well when all washing buffer mix is in the tube.  
-    • Using an extra bead risks breaking the tube.<br>
-    • Zirconium beads (1.5 mm) worsens the tissue disruption condition.<br>
+*(~30 mg for pine, spruce species), being careful to not cross contaminate samples. If using hands to stuff the bead mill tubes (break the long needles!), change gloves for each sample. (If tissue is tough, grind with a mortar and pestle before transfer)*
+3.	Add 1 mL Washing buffer, then 0.01 g PVP, and 4.5 µL β-mercaptoethanol in each tube.<br>
+> *Strategy for this can be like: Adding **0.01 x (11N/10)** g of **PVP** (eg. 0.264 g for 24 rxn), then **4.5 x (11N/10)** µL (eg. 118.8 µL for 24 rxn) of **β-ME** (in fumehood) to the measured 11N/10 mL washing buffer stock. Then add **1004.5 µL** of the mix to each bead mill tube*.  
+    ⚠️ **R.B.**  
+    • One ballcone bead (5.6 mm) doesn't grind conifer leaf needles (*White spruce, Red pine, Jack pine*) well when all 1004.5 µL washing buffer is in the tube.<br>
+    • Using an extra ballcone bead risks breaking the tube.<br>
+    • Zirconium beads (1.5 mm) worsens the tissue disruption condition, either alone or in combination with other beads of different size.<br>
   	• Stainless steel beads (2 mm) doesn't grind well (5 beads or 10 beads, doesn't improve).<br>
-  	• In presence of one 5.6 mm bead, five 2 mm steel beads disrupt tissue even when all the washing buffer is there in the tube.<br>
-    :point_right: **A Better approach:** Add **500 µL** of the washing buffer  →	 bead mill **grind** (steps 4-5)  →	 add remaining **504.5 µL** of the wash buffer  →	 **vortex** →	proceed to steps 6–9. <br>
+  	• In presence of one 5.6 mm ballcone bead, using five-ten steel beads (2 mm) grinds leaf needles even when all 1004.5 µL washing buffer is there in the tube.<br>
+    :point_right: **Either,** use one ballcone bead + 5-10 beads (2 mm) when grinding tissues in 1004.5 µl washing buffer.<br>
+.    **or,** > Use only one ballcone bead: Add **500 µL** of the washing buffer  →	 bead mill **grind** (steps 4-5)  →	 add remaining **504.5 µL** of the wash buffer  →	 **vortex** →	proceed to steps 6–9. <br>
 >> *Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
 4. Insert bead mill tubes into bead mill, making sure that the tubes are in a balanced arrangement.
 5. Run bead mill for 2 minutes at 3.55 m/s.
