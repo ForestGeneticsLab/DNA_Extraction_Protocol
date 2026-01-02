@@ -344,14 +344,13 @@ We need **100 µL** of **1x TE buffer** (around 8.0 pH) per sample (rxn) to resu
 >> If SpeedVac is available, dry the pellet for 30 min in the SpeedVac (*a) Turn on the rotor first and wait for the vacuum to start → b) Set the temperature to 30°C → c)	Turn on the motor second and start suction → d) Reverse steps to stop*)
 
 22.	**Resuspend** samples with **100 µL** of **1x TE buffer**. Allow to resuspend for 1 hr at 55°C or overnight in refrigerator before measuring purity, concentration or running a test gel.
-23.	If DNA is not of good quality, not clear resuspended solution, smearing in gel electrophoresis, etc), Clean DNA using an **Ethanol precipitation protocol** (below) if needed.
-
+23.	If DNA quality is poor (cloudy solution, gel smearing, etc), clean using an Ethanol precipitation protocol (below) if needed.
 
 ---
 
 ### Ethanol Precipitation Protocol
 
-1.	The volume of the DNA is less than **200 μl** (resuspended in 100 µl TE buffer), bring the volume up to 200 μl with sterile dH<sub>2</sub>O (adding 100 μl).
+1.	Bring the volume up of the DNA (resuspended in 100 µl TE buffer) to 200 μl with sterile dH<sub>2</sub>O (adding 100 μl).
 2.	Add **1/10<sup>th</sup>** volume of **3M sodium acetate** to the DNA solution and mix. (i.e. add **20 μL** to the **200μL** solution)
 3.	Add **2** volumes (i.e. **400 μL**) of **absolute EtOH at -20°C** and vortex for **10** seconds.
 4.	Put the tube in a **-20°C freezer overnight** or a **-70°C freezer for 20 minutes**.
