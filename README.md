@@ -314,7 +314,7 @@ We need **100 µL** of **1x TE buffer** (around 8.0 pH) per sample (rxn) to resu
 ### CTAB Protocol
 
 1.  Measure out the autoclaved **CTAB buffer stock** (0.5 mL/rxn plus 10% overage) *i.e. 11N/20 mL. (eg. **13.2 mL for 24 samples**)*
-2.	We need to add **0.02g PVP** and **2.5 µL β-mercaptoethanol** for each reaction.<br>    
+2.	We need to add **0.02g PVP** and **2.5 µL β-mercaptoethanol** for each reaction.    
 *To the measured (11N/20 mL) CTAB buffer stock, add **0.02 x 11N/10 g** (eg. 0.528 g for 24 samples) **PVP**. → → → **Incubate** in the water bath until the PVP is fully dissolved. → → → Add **2.5 x 11N/10** µL (eg. 66 µL for 24 samples) **β-ME**. → → → Mix well and add **502.5 µL** (500 + 2.5) of the CTAB buffer to each tube.*
 
 3.	Mix vigorously (vortex the tubes for 10 seconds).
