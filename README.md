@@ -69,7 +69,7 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 ---
 ---
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 # Modified CTAB DNA Extraction Protocol
 
@@ -88,7 +88,7 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 :small_blue_diamond: 0.5 M **EDTA (EthyleneDiamineTetraacetic Acid)**: *Chelating agent. Binds metal cations like Mg<sup>++</sup> Ca<sup>++</sup> that can inactivate enzymes (like nucleases: DNase, RNase) and thus protects DNA from degradation.*
 
 :small_blue_diamond: 5M **NaCl**: *Helps remove protein bound to the DNA. Na+ binds with negative phosphate of DNA and precipitate*.<br>
->> Heikrujam et al. 2020: If cells are in hypotonic solution, cells may burst… If in hypertonic solution, water oozes out from the cell, and cells shrink and crumple. 0.5 M provides ionic strength needed for CTAB to precipitate polysaccharides. In protocols developed for getting rid of polysaccharides, higher concentration has been recommended.
+> Heikrujam et al. 2020: If cells are in hypotonic solution, cells may burst. In hypertonic solution, water oozes out from the cell, cells shrink and crumple. 0.5 M provides ionic strength needed for CTAB to precipitate polysaccharides. Higher concentration for getting rid of polysaccharides!
 
 :small_blue_diamond: **PVP (PolyVinylPyrrolidone)**: *Absorbs polyphenols (by hydrogen bonding).*
 
