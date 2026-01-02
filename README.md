@@ -297,8 +297,8 @@ We need **100 µL** of **1x TE buffer** (around 8.0 pH) per sample (rxn) to resu
     • Zirconium beads (1.5 mm) worsens the tissue disruption condition, either alone or in combination with other beads of different size.<br>
   	• Stainless steel beads (2 mm) doesn't grind well (5 beads or 10 beads, doesn't improve).<br>
   	• In presence of one 5.6 mm ballcone bead, using five-ten steel beads (2 mm) grinds leaf needles even when all 1004.5 µL washing buffer is there in the tube.<br>
-    :point_right: **Either,** use one ballcone bead + 5-10 beads (2 mm) when grinding tissues in 1004.5 µl washing buffer.<br>
-    :point_right: **or,** Use only one ballcone bead: Add **500 µL** of the washing buffer  →	 bead mill **grind** (steps 4-5)  →	 add remaining **504.5 µL** of the wash buffer  →	 **vortex** →	proceed to steps 6–9. <br>
+    :point_right: **Either,** use one ballcone bead plus 5-10 beads (2 mm) while grinding tissues in 1004.5 µl washing buffer.<br>
+    :point_right: **or,** Use only one ballcone bead: Add **500 µL** of the washing buffer  →	 bead mill **grind** (steps 4-5)  → → →	 add remaining **504.5 µL** of the wash buffer  → → →	 **vortex** → → →	proceed to steps 6–9. <br>
 >> *Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
 4. Insert bead mill tubes into bead mill, making sure that the tubes are in a balanced arrangement.
 5. Run bead mill for 2 minutes at 3.55 m/s.
@@ -314,15 +314,15 @@ We need **100 µL** of **1x TE buffer** (around 8.0 pH) per sample (rxn) to resu
 ### CTAB Protocol
 
 1.  Measure out the autoclaved **CTAB buffer stock** (0.5 mL/rxn plus 10% overage) *i.e. 11N/20 mL. (eg. **13.2 mL for 24 samples**)*
-2.	We need to add **0.02g PVP** and **2.5 µL β-mercaptoethanol** for each reaction.<br> *To the measured 11N/20 mL CTAB buffer stock, add **0.02 x 11N/10** g (eg. 0.528 g for 24 samples) **PVP**, then **2.5 x 11N/10** µL (eg. 66 µL for 24 samples) **β-ME**. → **Incubate the CTAB buffer** in the water bath until the PVP is fully dissolved. → Add **502.5 µL** (500 + 2.5) of the CTAB buffer to each tube.*   
+2.	We need to add **0.02g PVP** and **2.5 µL β-mercaptoethanol** for each reaction.<br>    
+*To the measured (11N/20 mL) CTAB buffer stock, add **0.02 x 11N/10 g** (eg. 0.528 g for 24 samples) **PVP**. → → → **Incubate** in the water bath until the PVP is fully dissolved. → → → Add **2.5 x 11N/10** µL (eg. 66 µL for 24 samples) **β-ME**. → → → Mix well and add **502.5 µL** (500 + 2.5) of the CTAB buffer to each tube.*
+
 3.	Mix vigorously (vortex the tubes for 10 seconds).
 4.	**Incubate** samples at 65°C in the water baths for **3 hours**.
 5.	Using **filter tip**, add **500 µL** of **24:1 Chloroform: Isoamyl Alcohol** and mix well by vortexing.
 6.	**Centrifuge for 5-10 min** at maximum speed (13,300 rpm). <br>
-<div style="margin-left: 50px;">	Following centrifugation, you should have 3 layers: **aqueous phase** (top), **debris and proteins** (middle), and **chloroform** (bottom). (*Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in the aqueous phase*. </div> <br>
--	<div style="margin-left: 100px;"> Go onto next step quickly so the phases do not remix.</div>
-
-
+- Following centrifugation, you should have 3 layers: **aqueous phase** (top), **debris and proteins** (middle), and **chloroform** (bottom). (*Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in the aqueous phase*. </div> <br>
+- Go onto next step quickly so the phases do not remix.</div>
 
 7.	Pipette slowly off aqueous phase (don't suck up any of the middle proteins debris and bottom chloroform phases.
 8.	Place the aqueous phase into a **new labeled Eppendorf tube**.
