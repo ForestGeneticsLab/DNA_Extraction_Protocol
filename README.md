@@ -276,7 +276,7 @@ We need **100 µL** of **1x TE buffer** (around 8.0 pH) per sample (rxn) to resu
 ## Extraction begins:
 
 ***Prep*:** After pre-wash, the regular extraction procedure continues immediately. **CTAB buffer needs to be at 65°C** temperature. **Ammonium acetate, Isopropanol, 70% and 99% Ethanol all need to be cold (4°C)**. Therefore, <br>
-:point_right: *Preheat the heat thermos-mixer to 65°C, and incubate the CTAB buffer.* <br>
+:point_right: *Preheat the water baths to 65°C.* <br>
 :point_right: *Put Ammonium acetate, Isopropanol, 70% and 99% Ethanol in refrigerator (-20°C).*
 
 ---
@@ -314,12 +314,12 @@ We need **100 µL** of **1x TE buffer** (around 8.0 pH) per sample (rxn) to resu
 ### CTAB Protocol
 
 1.  Measure out the autoclaved **CTAB buffer stock** (0.5 mL/rxn plus 10% overage) *i.e. 11N/20 mL. (eg. **13.2 mL for 24 samples**)*
-2.	Add 0.02g PVP and 2.5 µL β-mercaptoethanol for each reaction.<br> *To the measured 11N/20 mL CTAB buffer stock, add **0.02 x 11N/10** g (eg. 0.528 g for 24 samples) **PVP**, then **2.5 x 11N/10** µL (eg. 66 µL for 24 samples) **β-ME**. Then, add **502.5 µL** (500 + 2.5) of the buffer mix (CTAB buffer stock + PVP + β-ME mix) to each tube.*
-3.	Mix vigorously (vortex for 10 seconds).
-4.	**Incubate** samples at 65°C using the Eppendorf thermos mixer for **3 hours**.
-5.	Using **filter tip**, add **500 µL** of 24:1 **Chloroform: Isoamyl Alcohol** and mix well by vortexing.
+2.	We need to add **0.02g PVP** and **2.5 µL β-mercaptoethanol** for each reaction.<br> *To the measured 11N/20 mL CTAB buffer stock, add **0.02 x 11N/10** g (eg. 0.528 g for 24 samples) **PVP**, then **2.5 x 11N/10** µL (eg. 66 µL for 24 samples) **β-ME**. → **Incubate the CTAB buffer** in the water bath until the PVP is fully dissolved. → Add **502.5 µL** (500 + 2.5) of the CTAB buffer to each tube.*   
+3.	Mix vigorously (vortex the tubes for 10 seconds).
+4.	**Incubate** samples at 65°C in the water baths for **3 hours**.
+5.	Using **filter tip**, add **500 µL** of **24:1 Chloroform: Isoamyl Alcohol** and mix well by vortexing.
 6.	**Centrifuge for 5-10 min** at maximum speed (13,300 rpm). <br>
--	Following centrifugation, you should have 3 layers: **aqueous phase** (top), **debris and proteins** (middle), and **chloroform** (bottom). (*Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in the aqueous phase*. <br>
+...-	Following centrifugation, you should have 3 layers: **aqueous phase** (top), **debris and proteins** (middle), and **chloroform** (bottom). (*Chloroform: nonpolar hydrophobic solvent in which nonpolar proteins and lipids get dissolved, leaving isolated DNA protected in the aqueous phase*. <br>
 -	Go onto next step quickly so the phases do not remix.
 
 7.	Pipette slowly off aqueous phase (don't suck up any of the middle proteins debris and bottom chloroform phases.
