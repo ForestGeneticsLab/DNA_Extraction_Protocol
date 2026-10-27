@@ -59,11 +59,21 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 18. Repeat step 16-17: add another **650 µl Buffer AW2**, let sit for 5 minutes, then centrifuge at **12,000 × *g* for 1 minute**, discard flow-through and place the column back into the same 2 ml collection tube.  
 19. Now, **centrifuge** the MB Spin column at **13,300 × *g* for 2 minutes** to dry the white filter membrane in the MB Spin Column.  
 20. Place the MB Spin Column into a new clean 1.5 ml elution (collection) tube.  
-21. Add **50 µl Buffer EB** (10mM Tris) directly to the center of the white filter membrane.  
+21. Add **50 µl Buffer EB** (10 mM Tris) directly to the center of the white filter membrane. *  
 22. Centrifuge at **12,000 × *g* for 1 minute** to elute DNA.  
 23. Discard the MB Spin column. The eluted DNA is now in the 1.5 ml collection tube.  
 24. Measure DNA concentration and purity (e.g., Nanodrop spectrophotometer (*better for absorption*) or Qubit fluorometer (*more precise for concentration*).  
-25. Store DNA at **-80 to –20 °C** for long-term use (4 °C is OK for short-term use).
+25. Store DNA at **-80°C to –20°C** for long-term use (4°C is OK for short-term use).
+
+<br>
+
+* Buffer EB or 10 mM Tris instead of Tris EDTA (TE) buffer is preferable because TE may inhibit downstream reactions such as PCR.
+
+
+## Concentrating eluted DNA
+
+If DNA concentration is low and needed to concentrate: Add **10 µl of 3 M NaCl** --> Mix by inverting the elution tube 5 times --> Add **100 µl of 100% cold ethanol** --> Mix well by inverting the tube 5 times --> Incubate at **-20°C for 30 minutes** --> Centrifuge at **10,000 × *g* for 5 minutes** --> Pour off the liquid keeping the **DNA pallet** --> Air dry the ethanol --> **Resuspend** DNA precipitate in desired volume of **Buffer EB** (10 mM Tris).
+
 
 ---
 ---
@@ -107,7 +117,7 @@ DNA extraction is the process of isolating DNA from cells or tissues. In plants,
 
 :point_right: Prepare **Washing Buffer** (Tris Hcl, EDTA, NACL, H<sub>2</sub>O) and **CTAB Buffer** (Tris Hcl, EDTA, NaCl, H<sub>2</sub>O, CTAB), and 1x **TE Buffer** (to resuspend DNA at the end). <br><br>
 
-#### <ins>Washing Buffer:<ins>
+#### <ins>Wash Buffer:<ins>
 
 We need **1 mL Washing buffer per sample**. Prepare **X mL** (more than N mL) of washing buffer for N number of samples (rxn) with appropirate proportion of reagents, following the table below;
 
@@ -123,8 +133,6 @@ We need **1 mL Washing buffer per sample**. Prepare **X mL** (more than N mL) of
       <th>100 mL</th>
       <th>50 mL</th>
       <th>25 mL</th>
-      <th>10 mL</th>
-      <th>5 mL</th>      
     </tr>
   </thead>
   <tbody>
@@ -135,8 +143,6 @@ We need **1 mL Washing buffer per sample**. Prepare **X mL** (more than N mL) of
       <td>10 mL</td>
       <td>5 mL</td>
       <td>2.5 mL</td>
-      <td>1 mL</td>
-      <td>0.5 mL</td>
     </tr>
     <tr>
       <td>EDTA (0.5M)</td>
@@ -145,8 +151,6 @@ We need **1 mL Washing buffer per sample**. Prepare **X mL** (more than N mL) of
       <td>10 mL</td>
       <td>5 mL</td>
       <td>2.5 mL</td>
-      <td>1 mL</td>
-      <td>0.5 mL</td>
     </tr>
     <tr>
       <td>NaCl (5M)</td>
@@ -155,8 +159,6 @@ We need **1 mL Washing buffer per sample**. Prepare **X mL** (more than N mL) of
       <td>20 mL</td>
       <td>10 mL</td>
       <td>5 mL</td>
-      <td>2 mL</td>
-      <td>1 mL</td>
     </tr>
     <tr>
       <td>H₂O</td>
@@ -165,8 +167,6 @@ We need **1 mL Washing buffer per sample**. Prepare **X mL** (more than N mL) of
       <td>60 mL</td>
       <td>30 mL</td>
       <td>15 mL</td>
-      <td>6 mL</td>
-      <td>3 mL</td>
     </tr>
   </tbody>
 </table>
@@ -266,6 +266,7 @@ We need **100 µL** of **1x TE buffer** (around 8.0 pH) per sample (rxn) to resu
 |         H₂O              |   99X/100 mL        |   99 mL             |   9.9 mL          |   4.95 mL         |
  
 
+* Like in the Qiagen Protocol, instead of TE Buffer, EB Buffer (10 mM Tris) also can be used to suspend DNA. EDTA of TE may inhibit downstream reactions (Qiagen Handbook)!
 <br>
 
 ---
@@ -292,7 +293,7 @@ We need **100 µL** of **1x TE buffer** (around 8.0 pH) per sample (rxn) to resu
 <br> *i.e. (N + 0.1xN= 11N/10) mL. eg. for **24 samples**, 24 + 2.4 = **26.4 mL**)*
 2.	Stuff bead mill tubes with foliage sample as needed.
 *(~30 mg for pine, spruce species), being careful to not cross contaminate samples. If using hands to stuff the bead mill tubes (break the long needles!), change gloves for each sample. (If tissue is tough, grind with a mortar and pestle before transfer)*
-3.	Add 1 mL Washing buffer stock, 0.01 g PVP, 4.5 µL β-ME in each tube.<br>
+3.	Add 1 mL Wash Buffer stock, 0.01 g PVP, 4.5 µL β-ME in each tube.<br>
  *Strategy for this can be like: Adding **0.01 x (11N/10)** g of **PVP** (eg. 0.264 g for 24 rxn), then **4.5 x (11N/10)** µL (eg. 118.8 µL for 24 rxn) of **β-ME** (in fumehood) to the measured 11N/10 mL washing buffer stock. Then add **1004.5 µL** of the mix to each bead mill tube*.  
     ❌ One ballcone bead (5.6 mm) doesn't grind conifer leaf needles well when all 1004.5 µL washing buffer is in the tube.<br>
     ❌ Using an extra ballcone bead risks breaking the tube.<br>
@@ -300,7 +301,7 @@ We need **100 µL** of **1x TE buffer** (around 8.0 pH) per sample (rxn) to resu
   	❌ 2 mm Stainless steel beads (5, 10, or more beads) don't grind well.<br>
   	✔️ One 5.6 mm ballcone bead, plus five-ten steel beads (2 mm) grind leaf needles even when all 1004.5 µL washing buffer is there in the tube.<br>
     :point_right: **Either,** Use one ballcone bead plus 5-10 beads (2 mm) while grinding tissues in 1004.5 µl washing buffer.<br>
-    :point_right: **or,** Use one ballcone bead: Add **500 µL** of the washing buffer  →	 bead mill **grind** (steps 4-5) →	add remaining **504.5 µL** of the wash buffer  → 	 **vortex**  → 	proceed to steps 6–9. <br>
+    :point_right: **or,** Use one ballcone bead: Add **500 µL** of the washing buffer  →	 bead mill **grind** (steps 4-5) →	add remaining **504.5 µL** of the wash buffer  → 	 **vortex**  → 	proceed to steps 6–9. Keep in mind the enough Buffer:Tissue ratio. If more tissue sample is used, add more wash buffer accordingly for grinding. Less buffer proportion weakens lysis.  <br>
 >> *Instead of using bead mill tissue disruption, we can also grind the plant material using liquid nitrogen and clean sterile Micropestle. Add the ground tissue in a tube. Then 1 ml of washing buffer is added to tube. Shake vigorously to mix (use pipette tip to mix in order to guarantee complete mixing)*
 4. Insert bead mill tubes into bead mill, making sure that the tubes are in a balanced arrangement.
 5. Run bead mill for 2 minutes at 3.55 m/s.
